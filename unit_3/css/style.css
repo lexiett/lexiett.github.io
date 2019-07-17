@@ -1,12 +1,10 @@
 body {
 	text-align: center;
     background-color: #ffffff;
-    color: #000;
     text-decoration: none;
     font-family: Helvetica;
 }
 h1 { color: #fec803;
-	font-weight:bold;
 }
 h2 { color: #829DFF;
 }
