@@ -4,5 +4,15 @@ body {
     color: #000;
     font-family: Helvetica;
 }
-h1 { color: #f1aa18;
+h1 { color: #fec803
+	font-weight:bold;
+}
+h2 { color: #829DFF;
+}
+h3 { color: #000;
+}
+h4 { color: #000;
+	text-decoration:none;
+}
+h5 { color: #000;
 }
