@@ -10,25 +10,29 @@ body {
 }
 #coverimage {background: url(images/cover2.jpg);
   background-repeat: no-repeat;
+  max-width: 100%;
+  height: auto;
+  border: thin;
+  border-color: #fec803
 }
-img {
+.img {
   max-width: 100%;
   height: auto;
   border: thin;
   border-color: #fec803;
 }
-h1 { color: #fec803;
+.h1 { color: #fec803;
 	font-size: 24px;
 }
-h2 { color: #9103fe;
+.h2 { color: #9103fe;
 	font-size: 20px;
 }
-h3 { color: #000;
+.h3 { color: #000;
 	font-size: 18px;
 }
-h4 { color: #000;
+.h4 { color: #000;
 	font-size: 16px;
 }
-h5 { color: #000;
+.h5 { color: #000;
 	font-size: 14px;
 }
