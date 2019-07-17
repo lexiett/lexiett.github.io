@@ -2,9 +2,10 @@ body {
 	text-align: center;
     background-color: #ffffff;
     color: #000;
+    text-decoration: none;
     font-family: Helvetica;
 }
-h1 { color: #fec803
+h1 { color: #fec803;
 	font-weight:bold;
 }
 h2 { color: #829DFF;
@@ -12,7 +13,6 @@ h2 { color: #829DFF;
 h3 { color: #000;
 }
 h4 { color: #000;
-	text-decoration:none;
 }
 h5 { color: #000;
 }
