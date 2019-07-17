@@ -4,9 +4,12 @@ body {
     text-decoration: none;
     font-family: Helvetica;
 }
+#coverimage {background: url(images/cover2.jpg);
+  background-repeat: no-repeat;
+}
 h1 { color: #fec803;
 }
-h2 { color: #829DFF;
+h2 { color: #9103fe;
 }
 h3 { color: #000;
 }
