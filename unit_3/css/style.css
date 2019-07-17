@@ -7,6 +7,10 @@ body {
 #coverimage {background: url(images/cover2.jpg);
   background-repeat: no-repeat;
 }
+img {
+  max-width: 100%;
+  height: auto;
+}
 h1 { color: #fec803;
 }
 h2 { color: #9103fe;
