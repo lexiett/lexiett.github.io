@@ -1,13 +1,7 @@
 body {
-	text-align: center;
-	background:images/uglybaby1350.jpg;
-	background-size: cover;
-    background-color: #ffffff;
-    font-family: Helvetica;
+  text-align: center;
+  background: images/cover1.jpg;
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
 }
-
-h1, p {color: #B73619;}
-h2, p {color: #223228;}
-h3, p {color: #B73619;}
-h4, p {color: #B68539;}
-h4, p {color: #000;}
