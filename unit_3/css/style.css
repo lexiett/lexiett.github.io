@@ -1,8 +1,12 @@
 body {
+	background: url(images/cover2.jpg);
+	background-color: #ffffff;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: normal;
 	text-align: center;
-    background-color: #ffffff;
-    text-decoration: none;
-    font-family: Helvetica;
+	text-decoration: none;
+	text-transform: lowercase;
 }
 #coverimage {background: url(images/cover2.jpg);
   background-repeat: no-repeat;
@@ -10,6 +14,8 @@ body {
 img {
   max-width: 100%;
   height: auto;
+  border: thin;
+  border-color: #fec803;
 }
 h1 { color: #fec803;
 	font-size: 24px;
