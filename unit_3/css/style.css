@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Martel|Montserrat&display=swap');
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
-	font-family: Helvetica;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Martel', serif;
 	text-align: center;
 }
 #coverimage {background: url(../images/cover2.jpg);
@@ -13,6 +15,7 @@ img {
   height: auto;
   border: 4px;
   border-color: #F4E022;
+  padding: 4px;
 }
 h1 { color: #F4E022;
 	font-size: 24px;
