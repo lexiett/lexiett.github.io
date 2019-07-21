@@ -1,24 +1,17 @@
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
-	background: url(images/cover2.jpg);
-	background-color: #ffffff;
 	font-family: Helvetica;
-	font-style: normal;
-	font-weight: normal;
 	text-align: center;
-	text-decoration: none;
-	text-transform: lowercase;
 }
-#coverimage {background: url(images/cover2.jpg);
+#coverimage {background: url(../images/cover2.jpg);
   background-repeat: no-repeat;
-  max-width: 100%;
-  height: auto;
-  border: thin;
-  border-color: #fec803
+  background-size: cover;
+  height: 90vh;
 }
 img {
   max-width: 100%;
   height: auto;
-  border: thin;
+  border: 4px;
   border-color: #fec803;
 }
 h1 { color: #fec803;
