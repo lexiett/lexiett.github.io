@@ -5,6 +5,15 @@ body {
 	font-family: 'Raleway', sans-serif;
 	text-align: center;
 }
+ a {
+     text-decoration: none;
+  }
+a:hover
+  {
+    color:#F4E022;
+    text-decoration:none;
+    cursor:pointer;
+   }
 #nav { color: #5A37C3;
   font-size: 18px;
   font-family: 'Roboto', sans-serif; font-weight: bold;
@@ -21,15 +30,6 @@ img {
   border-color: #F4E022;
   padding: 4px;
 }
- a {
-     text-decoration: none;
-  }
-a:hover
-  {
-    color:#F4E022;
-    text-decoration:none;
-    cursor:pointer;
-   }
 h1 { color: #F4E022;
 	font-size: 30px;
 	font-family: 'Roboto', sans-serif; font-weight: bold;
