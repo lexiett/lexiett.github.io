@@ -5,6 +5,12 @@ body {
 	font-family: 'Raleway', sans-serif;
 	text-align: center;
 }
+a:hover
+  {
+    color:#F4E022;
+    text-decoration:none;
+    cursor:pointer;
+   }
 #nav { color: #5A37C3;
   font-size: 18px;
   font-family: 'Roboto', sans-serif; font-weight: bold;
