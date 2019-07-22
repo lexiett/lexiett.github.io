@@ -50,3 +50,12 @@ a:hover
     text-decoration:none;
     cursor:pointer;
    }
+    a {
+     text-decoration: none;
+  }
+a:hover
+  {
+    color:#F4E022;
+    text-decoration:none;
+    cursor:pointer;
+   }
