@@ -17,8 +17,6 @@ body {
 img {
   max-width: 100%;
   height: auto;
-  border: 4px;
-  border-color: #F4E022;
   padding: 4px;
 }
 h1 { color: #F4E022;
@@ -37,7 +35,7 @@ h3 { color: #000;
   text-decoration: none;
 }
 p { color: #000;
-	font-size: 14px;
+	font-size: 16px;
 	font-family: 'Raleway', sans-serif;
   line-height: 1.5em;
   text-decoration: none;
