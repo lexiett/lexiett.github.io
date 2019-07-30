@@ -6,11 +6,11 @@ body {
 	text-align: center;
 }
 header {
-    background-color: #FFED74;
+    background-color: #e3ddf5;
     padding: 20px;
 }
 nav { 
-  background-color: #FFED74;
+  background-color: #e3ddf5;
   color: #5A37C3;
   font-size: 24px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
@@ -63,7 +63,7 @@ a:hover {
     cursor:pointer;
    }
 .headline {
-  background-color: #FFED74;
+  background-color: #e3ddf5;
   color: #5A37C3;
   font-size: 24px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
@@ -71,28 +71,28 @@ a:hover {
   padding: .5em 0;
 }
 .start {
-    background-color: #FFE2B8;
+    background-color: #fbf2a5;
 }
 .startimage {
     width:30%;
     padding: .5em 1em;
 }
 .featured {
-    background-color: #E89C6C;
+    background-color: #fbf2a5;
 }
 .featuredimage {
-    width:60%;
+    width:50%;
     padding: 1em;
 }
 .secondary {
-    background-color: #E89C6C;
+    background-color: #fbf2a5;
 }
 .secondaryimage {
     width:25%;
     padding: .5em;
 }
 footer {
-  background-color: #FF957E;
+  background-color: #e3ddf5;
 }
 .bottomlogo {
   height: 150px;
