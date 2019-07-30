@@ -5,7 +5,13 @@ body {
 	font-family: 'Raleway', sans-serif;
 	text-align: center;
 }
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
 nav { 
+  background-color: #E8C66A;
   color: #5A37C3;
   font-size: 18px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
@@ -15,11 +21,6 @@ nav {
   background-repeat: no-repeat;
   background-size: cover;
   height: 90vh;
-}
-img {
-  max-width: 100%;
-  height: auto;
-  padding: 4px;
 }
 h1 { 
   color: #F4E022;
@@ -54,3 +55,27 @@ a:hover {
     text-decoration:none;
     cursor:pointer;
    }
+.start {
+    background-color: #FFE2B8;
+}
+.featured {
+    background-color: #E89C6C;
+}
+.secondary {
+    background-color: #E89C6C;
+}
+.featured2 {
+    background-color: #E89C6C;
+}
+.secondary2 {
+    background-color: #E89C6C;
+}
+footer {
+  background-color: #FF957E;
+}
+#lastlogo {
+
+}
+#contact {
+
+}
