@@ -12,7 +12,7 @@ header {
 nav { 
   background-color: #FFED74;
   color: #5A37C3;
-  font-size: 2em;
+  font-size: 24px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
 }
 #coverimage {
@@ -21,33 +21,37 @@ nav {
   background-size: cover;
   height: 90vh;
 }
+.toplogo {
+  height: 400px;
+  width: 400px;
+}
 h1 { 
   color: #F4E022;
-	font-size: 3em;
+	font-size: 30px;
 	font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
   padding: 1em;
 }
 h2 { 
   color: #5A37C3;
-	font-size: 2em;
+	font-size: 24px;
 	font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
   padding: .2em 0;
 }
 h3 { 
   color: #000;
-	font-size: 1.2em;
+	font-size: 18px;
 	font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
 }
 p { 
   color: #000;
-	font-size: 1em;
+	font-size: 16px;
 	font-family: 'Raleway', sans-serif;
   line-height: 1.5em;
   text-decoration: none;
-  width: 30%;
+  width: 25%;
   text-align:center;
 }
  a {
@@ -61,7 +65,7 @@ a:hover {
 .headline {
   background-color: #FFED74;
   color: #5A37C3;
-  font-size: 2em;
+  font-size: 24px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
   padding: .5em 0;
@@ -69,16 +73,28 @@ a:hover {
 .start {
     background-color: #FFE2B8;
 }
+.startimage {
+    width:30%;
+    padding: .5em 1em;
+}
 .featured {
     background-color: #E89C6C;
+}
+.featuredimage {
+    width:60%;
+    padding: 1em;
 }
 .secondary {
     background-color: #E89C6C;
 }
+.secondaryimage {
+    width:25%;
+    padding: .5em;
+}
 footer {
   background-color: #FF957E;
 }
-.lastlogo {
+.bottomlogo {
   height: 150px;
   width: 150px;
   padding: 0;
@@ -86,5 +102,5 @@ footer {
 .socialmedia {
   height: 40px;
   width: 40px;
-  padding: 0 1px;
+  padding: 0 .5em;
 }
