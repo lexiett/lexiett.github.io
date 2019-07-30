@@ -6,12 +6,12 @@ body {
 	text-align: center;
 }
 header {
-    background-color: #FA8FB2;
+    background-color: rgba(231,74,95, 0.5);
     padding: 20px;
 }
 nav { 
-  background-color: #FA8FB2;
-  color: #F64E8B;
+  background-color: rgba(231,74,95, 0.5);
+  color: #2A363B;
   font-size: 24px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
 }
@@ -26,21 +26,21 @@ nav {
   width: 400px;
 }
 h1 { 
-  color: #F7D33E;
+  color: #E74A5F;
 	font-size: 30px;
 	font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
   padding: 1em;
 }
 .logo {
-  color: #F7D33E;
+  color: #E74A5F;
   font-size: 30px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
   padding: 1em;
 }
 h2 { 
-  color: #F64E8B;
+  color: #2A363B;
 	font-size: 24px;
 	font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
@@ -65,13 +65,13 @@ p {
      text-decoration: none;
   }
 a:hover {
-    color:#F7D33E;
+    color:#E74A5F;
     text-decoration:none;
     cursor:pointer;
    }
 .headline {
-  background-color: #FA8FB2;
-  color: #F64E8B;
+  background-color: rgba(231,74,95, 0.5);
+  color: #2A363B;
   font-size: 24px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
@@ -99,7 +99,7 @@ a:hover {
     padding: .5em;
 }
 footer {
-  background-color: #FA8FB2;
+  background-color: rgba(231,74,95, 0.5);
 }
 .bottomlogo {
   height: 150px;
