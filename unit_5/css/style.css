@@ -22,6 +22,9 @@ nav {
   background-size: cover;
   height: 90vh;
 }
+img {
+  padding: .2em;
+}
 h1 { 
   color: #F4E022;
 	font-size: 3em;
@@ -34,6 +37,7 @@ h2 {
 	font-size: 2em;
 	font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
+  padding: .2em 0;
 }
 h3 { 
   color: #000;
@@ -47,7 +51,8 @@ p {
 	font-family: 'Raleway', sans-serif;
   line-height: 1.5em;
   text-decoration: none;
-  width: 50%;
+  width: 30%;
+  text-align:center;
 }
  a {
      text-decoration: none;
