@@ -7,13 +7,12 @@ body {
 }
 header {
     background-color: #FFED74;
-    border: 1px black solid;
     padding: 20px;
 }
 nav { 
-  background-color: #E8C66A;
+  background-color: #FFED74;
   color: #5A37C3;
-  font-size: 18px;
+  font-size: 2em;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
 }
 #coverimage {
@@ -65,7 +64,7 @@ a:hover {
   font-size: 2em;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
-  padding: 1em 0;
+  padding: .5em 0;
 }
 .start {
     background-color: #FFE2B8;
@@ -76,18 +75,16 @@ a:hover {
 .secondary {
     background-color: #E89C6C;
 }
-.featured2 {
-    background-color: #E89C6C;
-}
-.secondary2 {
-    background-color: #E89C6C;
-}
 footer {
   background-color: #FF957E;
 }
-#lastlogo {
-
+.lastlogo {
+  height: 150px;
+  width: 150px;
+  padding: 0;
 }
-#contact {
-
+.socialmedia {
+  height: 40px;
+  width: 40px;
+  padding: 0 1px;
 }
