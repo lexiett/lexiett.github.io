@@ -37,7 +37,7 @@ h2 {
 }
 h3 { 
   color: #000;
-	font-size: 1.5em;
+	font-size: 1.2em;
 	font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
 }
@@ -47,6 +47,7 @@ p {
 	font-family: 'Raleway', sans-serif;
   line-height: 1.5em;
   text-decoration: none;
+  width: 50%;
 }
  a {
      text-decoration: none;
