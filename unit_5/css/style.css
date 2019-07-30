@@ -32,6 +32,13 @@ h1 {
   text-decoration: none;
   padding: 1em;
 }
+.logo {
+  color: #F4E022;
+  font-size: 30px;
+  font-family: 'Open+Sans', sans-serif; font-weight: bold;
+  text-decoration: none;
+  padding: 1em;
+}
 h2 { 
   color: #5A37C3;
 	font-size: 24px;
