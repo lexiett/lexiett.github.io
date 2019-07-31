@@ -71,6 +71,10 @@ p {
   text-align:center;
   padding: 0 1em;
 }
+a {
+    color: #2A363B;
+    text-decoration: none;
+}
 a:hover {
     color: #E74A5F;
     text-decoration:underline;
