@@ -14,6 +14,7 @@ nav {
   color: #2A363B;
   font-size: 24px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
+  padding: 0 1em;
 }
 #coverimage {
   background: url(../images/cover2.jpg);
