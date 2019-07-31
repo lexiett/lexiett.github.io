@@ -66,7 +66,8 @@ p {
   font-size: 18px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
   line-height: 1.5em;
-  text-decoration: none;
+  text-underline-position: under;
+  text-decoration-style: solid;
   width: 25%;
   text-align:center;
   padding: 0 1em;
