@@ -73,11 +73,13 @@ p {
  a {
      color: #2A363B;
      text-decoration: none;
-     padding: .2em 1em;
+     padding: 0 1em;
   }
 a:hover {
     color: #E74A5F;
-    text-decoration:none;
+    text-decoration:underline;
+    text-decoration-style: solid;
+    text-decoration-color: #E74A5F;
     cursor:pointer;
    }
 .headline {
@@ -86,7 +88,6 @@ a:hover {
   font-size: 24px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
-  padding: .5em 0;
 }
 .start {
     background-color: #E2E2E2;
