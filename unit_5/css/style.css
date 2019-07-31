@@ -6,14 +6,14 @@ body {
 	text-align: center;
 }
 header {
-    background-color: #FFF;
+    background-color: rgba(244,139,178, 0.5);
     padding: 10px;
 }
 nav { 
   color: #000;
   font-size: 24px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
-  background-color: #FFF;
+  background-color: rgba(244,139,178, 0.5);
 }
 #coverimage {
   background: url(../images/cover2.jpg);
@@ -83,8 +83,8 @@ a:hover {
     cursor:pointer;
    }
 .headline {
-  background-color: rgba(244,139,178, 0.5);
-  color: #F5C80E;
+  background-color: #FFF;
+  color: #F64E8B;
   font-size: 24px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
