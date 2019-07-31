@@ -63,9 +63,8 @@ p {
 }
 .cta {
   color: #2A363B;
-  font-size: 16px;
-  font-family: 'Raleway', sans-serif;
-  font-weight: bold;
+  font-size: 18px;
+  font-family: 'Open+Sans', sans-serif; font-weight: bold;
   line-height: 1.5em;
   text-decoration: none;
   width: 25%;
