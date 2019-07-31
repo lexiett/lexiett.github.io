@@ -66,15 +66,14 @@ p {
   font-size: 18px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
   line-height: 1.5em;
-  text-underline-position: under;
-  text-decoration-style: solid;
+  text-decoration: none;
   width: 25%;
   text-align:center;
   padding: 0 1em;
 }
 a:hover {
     color: #E74A5F;
-    text-underline-position: under;
+    text-decoration:underline;
     text-decoration-style: solid;
     text-decoration-color: #E74A5F;
     cursor:pointer;
