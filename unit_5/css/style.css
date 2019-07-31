@@ -61,8 +61,19 @@ p {
   width: 25%;
   text-align:center;
 }
+.cta {
+  color: #2A363B;
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.5em;
+  text-decoration: none;
+  width: 25%;
+  text-align:center;
+}
  a {
+     color: #2A363B;
      text-decoration: none;
+     padding: .2em 1em;
   }
 a:hover {
     color: #E74A5F;
