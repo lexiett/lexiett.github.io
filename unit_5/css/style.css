@@ -6,11 +6,11 @@ body {
 	text-align: center;
 }
 header {
-    background-color: #FFDF7F;
+    background-color: rgba(244,139,178, 0.5);
     padding: 20px;
 }
 nav { 
-  background-color: #FFDF7F;
+  background-color: rgba(244,139,178, 0.5);
   color: #000;
   font-size: 24px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
@@ -40,7 +40,7 @@ h1 {
   padding: 1em;
 }
 h2 { 
-  color: #000;
+  color: #F64E8B;
 	font-size: 24px;
 	font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
@@ -83,8 +83,8 @@ a:hover {
     cursor:pointer;
    }
 .headline {
-  background-color: rgba(244,139,178, 0.5);
-  color: #2A363B;
+  background-color: #FFDF7F;
+  color: #F64E8B;
   font-size: 24px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
