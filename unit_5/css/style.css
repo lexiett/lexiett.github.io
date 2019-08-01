@@ -13,6 +13,7 @@ nav {
   font-size: 24px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
   background-color: rgba(244,139,178, 0.5);
+  height: 2em;
 }
 #coverimage {
   background: url(../images/cover2.jpg);
@@ -46,7 +47,7 @@ h2 {
   padding: .2em 0;
 }
 h3 { 
-  color: #F64E8B;
+  color: #000;
 	font-size: 18px;
 	font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
