@@ -82,29 +82,36 @@ a:hover {
     text-decoration-color: #F64E8B;
     cursor:pointer;
    }
-.headline {
+.headlinewhite {
   background-color: #FFF;
   color: #F64E8B;
   font-size: 24px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
 }
+.headlineyellow {
+  background-color: background-color: rgba(255,233,168, 0.5);
+  color: #F64E8B;
+  font-size: 24px;
+  font-family: 'Open+Sans', sans-serif; font-weight: bold;
+  text-decoration: none;
+}
 .start {
-    background-color: rgba(255,233,168, 0.5);
+    background-color: #FFF;
 }
 .startimage {
     width:30%;
     padding: .5em 1em;
 }
 .featured {
-    background-color: #FFF;
+    background-color: rgba(255,233,168, 0.5);
 }
 .featuredimage {
     width:50%;
     padding: 1em;
 }
 .secondary {
-    background-color: rgba(255,233,168, 0.5);
+    background-color: #FFF;
 }
 .secondaryimage {
     width:25%;
