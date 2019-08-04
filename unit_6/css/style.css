@@ -123,7 +123,7 @@ a:hover {
 
 #threecolumn {
     background-color: #FFF;
-    padding: 20px;
+    padding: 10px;
 }
 
 #column1 {
@@ -167,25 +167,25 @@ a:hover {
 
 #fourcolumn1 {
     float: left;
-    width: 19%;
+    width: 24%;
     margin: 1%;
    }
 
 #fourcolumn2 {
     float: left;
-    width: 19%;
+    width: 24%;
     margin: 1%;
 }
 
 #fourcolumn3 {
     float: left;
-    width: 19%;
+    width: 24%;
     margin: 1%;
 }
 
 #fourcolumn4 {
     float: left;
-    width: 19%;
+    width: 24%;
     margin: 1%;
 }
 
