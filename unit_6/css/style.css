@@ -37,13 +37,12 @@ nav {
   color: #F64E8B;
   font-size: 26px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
-  text-decoration: none;
   padding: 1em;
 }
 
 h1 { 
   color: #F64E8B;
-	font-size: 30px;
+	font-size: 34px;
 	font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
   padding: 1em;
@@ -51,7 +50,7 @@ h1 {
 
 .logo {
   color: #F64E8B;
-  font-size: 30px;
+  font-size: 34px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
   padding: .5em;
