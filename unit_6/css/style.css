@@ -108,36 +108,28 @@ a:hover {
 }
 #threecolumn {
     background-color: #FFF;
-    border: 1px black solid;
     padding: 20px;
 }
 #column1 {
-    background-color: #E582A2;
-    border: 1px black solid;
-    padding: 20px;
+    padding: 10px;
     float: left;
     width: 28%;
     margin: 2%;
 }
 #column2 {
-    background-color: #E55B88;
-    border: 1px black solid;
-    padding: 20px;
+    padding: 10px;
     float: left;
     width: 28%;
     margin: 2%;
 }
 #column3 {
-    background-color: #E582A2;
-    border: 1px black solid;
-    padding: 20px;
+    padding: 10px;
     float: left;
     width: 28%;
     margin: 2%;
 }
 .startimage {
     width:100%;
-    padding: 1em 0;
 }
 .featured {
     background-color: rgba(255,233,168, 0.5);
