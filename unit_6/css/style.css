@@ -131,18 +131,21 @@ a:hover {
     float: left;
     width: 29%;
     margin: 2%;
+    text-align: center;
    }
 
 #column2 {
     float: left;
     width: 29%;
     margin: 2%;
+    text-align: center;
 }
 
 #column3 {
     float: left;
     width: 29%;
     margin: 2%;
+    text-align: center;
 }
 
 .startimage {
