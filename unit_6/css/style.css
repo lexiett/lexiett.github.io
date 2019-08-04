@@ -189,6 +189,35 @@ a:hover {
     margin: 1%;
 }
 
+#fourcolumnshop {
+    background-color: #FFF;
+    padding: 10px;
+}
+
+#fourcolumnshop1 {
+    float: left;
+    width: 22%;
+    margin: 1%;
+   }
+
+#fourcolumnshop2 {
+    float: left;
+    width: 22%;
+    margin: 1%;
+}
+
+#fourcolumnshop3 {
+    float: left;
+    width: 22%;
+    margin: 1%;
+}
+
+#fourcolumnshop4 {
+    float: left;
+    width: 22%;
+    margin: 1%;
+}
+
 .secondaryimage {
     width:100%;
 }
