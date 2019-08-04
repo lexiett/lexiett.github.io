@@ -198,6 +198,10 @@ a:hover {
     overflow: hidden;
 }
 
+.secondaryarticle {
+    text-align: center;
+}
+
 #fourcolumnshop {
     background-color: #FFF;
     padding: 10px;
