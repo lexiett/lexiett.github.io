@@ -131,6 +131,7 @@ a:hover {
     width: 29%;
     margin: 2%;
     text-align: center;
+    display: inline
    }
 
 #column2 {
@@ -138,6 +139,7 @@ a:hover {
     width: 29%;
     margin: 2%;
     text-align: center;
+    display: inline
 }
 
 #column3 {
@@ -145,6 +147,7 @@ a:hover {
     width: 29%;
     margin: 2%;
     text-align: center;
+    display: inline
 }
 
 .startimage {
@@ -171,25 +174,25 @@ a:hover {
 
 #fourcolumn1 {
     float: left;
-    width: 46%;
+    width: 20%;
     margin: 2%;
    }
 
 #fourcolumn2 {
     float: left;
-    width: 46%;
+    width: 20%;
     margin: 2%;
 }
 
 #fourcolumn3 {
     float: left;
-    width: 46%;
+    width: 20%;
     margin: 2%;
 }
 
 #fourcolumn4 {
     float: left;
-    width: 46%;
+    width: 20%;
     margin: 2%;
 }
 
@@ -200,25 +203,25 @@ a:hover {
 
 #fourcolumnshop1 {
     float: left;
-    width: 21%;
+    width: 20%;
     margin: 2%;
    }
 
 #fourcolumnshop2 {
     float: left;
-    width: 21%;
+    width: 20%;
     margin: 2%;
 }
 
 #fourcolumnshop3 {
     float: left;
-    width: 21%;
+    width: 20%;
     margin: 2%;
 }
 
 #fourcolumnshop4 {
     float: left;
-    width: 21%;
+    width: 20%;
     margin: 2%;
 }
 
