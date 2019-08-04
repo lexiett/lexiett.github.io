@@ -149,7 +149,7 @@ a:hover {
     padding: 1em 0;
 }
 
-#featurednew {
+#twocolumn {
     float: right;
     background-color: #FFF;
     padding: 20px;
@@ -160,12 +160,37 @@ a:hover {
     padding: 1em 0;
 }
 
-.secondary {
+#fourcolumn {
     background-color: #FFF;
+    padding: 20px;
+}
+
+#fourcolumn1 {
+    float: left;
+    width: 28%;
+    margin: 2%;
+   }
+
+#fourcolumn2 {
+    float: left;
+    width: 23%;
+    margin: 2%;
+}
+
+#fourcolumn3 {
+    float: left;
+    width: 23%;
+    margin: 2%;
+}
+
+#fourcolumn4 {
+    float: left;
+    width: 23%;
+    margin: 2%;
 }
 
 .secondaryimage {
-    width:25%;
+    width:100%;
     padding: .5em;
 }
 
