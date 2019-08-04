@@ -171,25 +171,25 @@ a:hover {
 
 #fourcolumn1 {
     float: left;
-    width: 22%;
+    width: 21%;
     margin: 2%;
    }
 
 #fourcolumn2 {
     float: left;
-    width: 22%;
+    width: 21%;
     margin: 2%;
 }
 
 #fourcolumn3 {
     float: left;
-    width: 22%;
+    width: 21%;
     margin: 2%;
 }
 
 #fourcolumn4 {
     float: left;
-    width: 22%;
+    width: 21%;
     margin: 2%;
 }
 
@@ -239,5 +239,5 @@ footer {
 .socialmedia {
   height: 40px;
   width: 40px;
-  padding: .1em;
+  padding: 5px;
 }
