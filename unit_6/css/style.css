@@ -130,24 +130,18 @@ a:hover {
     float: left;
     width: 29%;
     margin: 2%;
-    text-align: center;
-    display: inline
    }
 
 #column2 {
     float: left;
     width: 29%;
     margin: 2%;
-    text-align: center;
-    display: inline
 }
 
 #column3 {
     float: left;
     width: 29%;
     margin: 2%;
-    text-align: center;
-    display: inline;
 }
 
 .startimage {
@@ -177,32 +171,24 @@ a:hover {
     float: left;
     width: 20%;
     margin: 2%;
-    text-align: center;
-    display: inline;
    }
 
 #fourcolumn2 {
     float: left;
     width: 20%;
     margin: 2%;
-    text-align: center;
-    display: inline;
 }
 
 #fourcolumn3 {
     float: left;
     width: 20%;
     margin: 2%;
-    text-align: center;
-    display: inline;
 }
 
 #fourcolumn4 {
     float: left;
     width: 20%;
     margin: 2%;
-    text-align: center;
-    display: inline;
 }
 
 #fourcolumnshop {
@@ -214,32 +200,24 @@ a:hover {
     float: left;
     width: 20%;
     margin: 2%;
-    text-align: center;
-    display: inline;
    }
 
 #fourcolumnshop2 {
     float: left;
     width: 20%;
     margin: 2%;
-    text-align: center;
-    display: inline;
 }
 
 #fourcolumnshop3 {
     float: left;
     width: 20%;
     margin: 2%;
-    text-align: center;
-    display: inline;
 }
 
 #fourcolumnshop4 {
     float: left;
     width: 20%;
     margin: 2%;
-    text-align: center;
-    display: inline;
 }
 
 .secondaryimage {
