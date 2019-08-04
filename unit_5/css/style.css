@@ -12,6 +12,9 @@ nav {
   color: #000;
   font-size: 24px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
+  height: 2em;
+  text-align: center;
+  line-height: 2em;
   background-color: rgba(244,139,178, 0.5);
 }
 #coverimage {
