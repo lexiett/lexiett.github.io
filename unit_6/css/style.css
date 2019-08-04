@@ -34,8 +34,8 @@ nav {
 }
 
 #tagline {
-  color: #000;
-  font-size: 28px;
+  color: #F64E8B;
+  font-size: 26px;
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
   padding: 1em;
@@ -96,6 +96,7 @@ a {
     text-decoration: none;
     padding: 0 1em;
 }
+
 a:hover {
     color: #F64E8B;
     text-decoration:underline;
@@ -128,19 +129,19 @@ a:hover {
 
 #column1 {
     float: left;
-    width: 31%;
+    width: 28%;
     margin: 2%;
    }
 
 #column2 {
     float: left;
-    width: 31%;
+    width: 28%;
     margin: 2%;
 }
 
 #column3 {
     float: left;
-    width: 31%;
+    width: 28%;
     margin: 2%;
 }
 
@@ -153,6 +154,7 @@ a:hover {
     float: right;
     background-color: #FFF;
     padding: 20px;
+    display: inline-block;
 }
 
 .featuredimage {
@@ -167,26 +169,26 @@ a:hover {
 
 #fourcolumn1 {
     float: left;
-    width: 24%;
-    margin: 1%;
+    width: 20%;
+    margin: 2%;
    }
 
 #fourcolumn2 {
     float: left;
-    width: 24%;
-    margin: 1%;
+    width: 20%;
+    margin: 2%;
 }
 
 #fourcolumn3 {
     float: left;
-    width: 24%;
-    margin: 1%;
+    width: 20%;
+    margin: 2%;
 }
 
 #fourcolumn4 {
     float: left;
-    width: 24%;
-    margin: 1%;
+    width: 20%;
+    margin: 2%;
 }
 
 #fourcolumnshop {
@@ -196,26 +198,26 @@ a:hover {
 
 #fourcolumnshop1 {
     float: left;
-    width: 24%;
-    margin: 1%;
+    width: 20%;
+    margin: 2%;
    }
 
 #fourcolumnshop2 {
     float: left;
-    width: 24%;
-    margin: 1%;
+    width: 20%;
+    margin: 2%;
 }
 
 #fourcolumnshop3 {
     float: left;
-    width: 24%;
-    margin: 1%;
+    width: 20%;
+    margin: 2%;
 }
 
 #fourcolumnshop4 {
     float: left;
-    width: 24%;
-    margin: 1%;
+    width: 20%;
+    margin: 2%;
 }
 
 .secondaryimage {
