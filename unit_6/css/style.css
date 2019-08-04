@@ -149,8 +149,8 @@ a:hover {
     padding: 1em 0;
 }
 
-#twocolumn {
-    float: right;
+#featuredleft {
+    float: left;
     background-color: #FFF;
     padding: 20px;
     display: inline-block;
@@ -159,7 +159,6 @@ a:hover {
 
 .featuredimage {
     width:50%;
-    padding: 1em 0;
 }
 
 #fourcolumn {
