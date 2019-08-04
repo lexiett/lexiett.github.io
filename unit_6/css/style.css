@@ -98,6 +98,14 @@ a:hover {
   font-family: 'Open+Sans', sans-serif; font-weight: bold;
   text-decoration: none;
 }
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
 #threecolumn {
     background-color: #FFF;
     border: 1px black solid;
@@ -107,16 +115,25 @@ a:hover {
     background-color: #E582A2;
     border: 1px black solid;
     padding: 20px;
+    float: left;
+    width: 28%;
+    margin: 2%;
 }
 #column2 {
     background-color: #E55B88;
     border: 1px black solid;
     padding: 20px;
+    float: left;
+    width: 28%;
+    margin: 2%;
 }
 #column3 {
     background-color: #E582A2;
     border: 1px black solid;
     padding: 20px;
+    float: left;
+    width: 28%;
+    margin: 2%;
 }
 .startimage {
     width:28%;
