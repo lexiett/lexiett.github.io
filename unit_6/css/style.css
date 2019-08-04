@@ -147,7 +147,7 @@ a:hover {
     width: 29%;
     margin: 2%;
     text-align: center;
-    display: inline
+    display: inline;
 }
 
 .startimage {
@@ -160,6 +160,7 @@ a:hover {
     background-color: #FFF;
     padding: 20px;
     display: inline-block;
+    overflow: hidden;
 }
 
 .featuredimage {
@@ -176,24 +177,32 @@ a:hover {
     float: left;
     width: 20%;
     margin: 2%;
+    text-align: center;
+    display: inline;
    }
 
 #fourcolumn2 {
     float: left;
     width: 20%;
     margin: 2%;
+    text-align: center;
+    display: inline;
 }
 
 #fourcolumn3 {
     float: left;
     width: 20%;
     margin: 2%;
+    text-align: center;
+    display: inline;
 }
 
 #fourcolumn4 {
     float: left;
     width: 20%;
     margin: 2%;
+    text-align: center;
+    display: inline;
 }
 
 #fourcolumnshop {
@@ -205,24 +214,32 @@ a:hover {
     float: left;
     width: 20%;
     margin: 2%;
+    text-align: center;
+    display: inline;
    }
 
 #fourcolumnshop2 {
     float: left;
     width: 20%;
     margin: 2%;
+    text-align: center;
+    display: inline;
 }
 
 #fourcolumnshop3 {
     float: left;
     width: 20%;
     margin: 2%;
+    text-align: center;
+    display: inline;
 }
 
 #fourcolumnshop4 {
     float: left;
     width: 20%;
     margin: 2%;
+    text-align: center;
+    display: inline;
 }
 
 .secondaryimage {
