@@ -150,6 +150,16 @@ a:hover {
     display: block;
 }
 
+.secondaryimage {
+    width: 23%;
+    margin: 2%;
+}
+
+.secondaryarticle {
+    text-align: center;
+}
+
+
 #featuredright {
     float: right;
     background-color: #FFF;
@@ -158,15 +168,6 @@ a:hover {
     overflow: hidden;
 }
 
-.secondaryimage {
-    width:100%;
-    width: 23%;
-    margin: 2%;
-}
-
-.secondaryarticle {
-    text-align: center;
-}
 
 footer {
   background-color: rgba(244,139,178, 0.5);
