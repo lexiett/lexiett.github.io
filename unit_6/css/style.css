@@ -3,7 +3,6 @@
 
 body {
 	font-family: 'Open+Sans', sans-serif; 
-	font-family: 'Raleway', sans-serif;
 	text-align: center;
 }
 
@@ -14,7 +13,7 @@ header {
 nav { 
   color: #000;
   font-size: 24px;
-  font-family: 'Open+Sans', sans-serif; font-weight: bold;
+  font-weight: bold;
   height: 2.5em;
   text-align: center;
   line-height: 2.5em;
@@ -36,14 +35,14 @@ nav {
 #tagline {
   color: #F64E8B;
   font-size: 26px;
-  font-family: 'Open+Sans', sans-serif; font-weight: bold;
+  font-weight: bold;
   padding: 1em;
 }
 
 h1 { 
   color: #F64E8B;
 	font-size: 34px;
-	font-family: 'Open+Sans', sans-serif; font-weight: bold;
+	font-weight: bold;
   text-decoration: none;
   padding: 1em;
 }
@@ -51,7 +50,7 @@ h1 {
 .logo {
   color: #F64E8B;
   font-size: 34px;
-  font-family: 'Open+Sans', sans-serif; font-weight: bold;
+ font-weight: bold;
   text-decoration: none;
   padding: .5em;
 }
@@ -59,7 +58,7 @@ h1 {
 h2 { 
   color: #F64E8B;
 	font-size: 24px;
-	font-family: 'Open+Sans', sans-serif; font-weight: bold;
+	font-weight: bold;
   text-decoration: none;
   padding: .2em 0;
 }
@@ -67,14 +66,14 @@ h2 {
 h3 { 
   color: #000;
 	font-size: 18px;
-	font-family: 'Open+Sans', sans-serif; font-weight: bold;
+	font-weight: bold;
   text-decoration: none;
 }
 
 p { 
   color: #000;
 	font-size: 16px;
-	font-family: 'Raleway', sans-serif;
+
   line-height: 1.5em;
   text-decoration: none;
   text-align:center;
@@ -83,7 +82,7 @@ p {
 .cta {
   color: #000;
   font-size: 18px;
-  font-family: 'Open+Sans', sans-serif; font-weight: bold;
+  font-weight: bold;
   line-height: 1.5em;
   text-decoration: none;
   width: 25%;
@@ -93,7 +92,6 @@ p {
 a {
     color: #000;
     text-decoration: none;
-    padding: 0 1em;
 }
 
 a:hover {
@@ -108,7 +106,7 @@ a:hover {
   background-color: rgba(244,139,178, 0.5);
   color: #F64E8B;
   font-size: 24px;
-  font-family: 'Open+Sans', sans-serif; font-weight: bold;
+  font-weight: bold;
   text-decoration: none;
 }
 
@@ -122,31 +120,15 @@ a:hover {
 }
 
 #threecolumn {
+    float: left;
     background-color: #FFF;
-    padding: 10px;
-}
-
-#column1 {
-    float: left;
-    width: 29%;
-    margin: 2%;
-   }
-
-#column2 {
-    float: left;
-    width: 29%;
-    margin: 2%;
-}
-
-#column3 {
-    float: left;
-    width: 29%;
-    margin: 2%;
+    border: border: 1px solid black;
+    display: block;
 }
 
 .startimage {
-    width:100%;
-    padding: 1em 0;
+    width:31.33%;
+    margin: 2%;
 }
 
 #featuredleft {
@@ -161,33 +143,11 @@ a:hover {
     width:50%;
 }
 
-#fourcolumn {
+.fourcolumn {
+    float: left;
     background-color: #FFF;
-    padding: 10px;
-}
-
-#fourcolumn1 {
-    float: left;
-    width: 20%;
-    margin: 2%;
-   }
-
-#fourcolumn2 {
-    float: left;
-    width: 20%;
-    margin: 2%;
-}
-
-#fourcolumn3 {
-    float: left;
-    width: 20%;
-    margin: 2%;
-}
-
-#fourcolumn4 {
-    float: left;
-    width: 20%;
-    margin: 2%;
+    border: border: 1px solid black;
+    display: block;
 }
 
 #featuredright {
@@ -198,41 +158,14 @@ a:hover {
     overflow: hidden;
 }
 
-.secondaryarticle {
-    text-align: center;
-}
-
-#fourcolumnshop {
-    background-color: #FFF;
-    padding: 10px;
-}
-
-#fourcolumnshop1 {
-    float: left;
-    width: 20%;
-    margin: 2%;
-   }
-
-#fourcolumnshop2 {
-    float: left;
-    width: 20%;
-    margin: 2%;
-}
-
-#fourcolumnshop3 {
-    float: left;
-    width: 20%;
-    margin: 2%;
-}
-
-#fourcolumnshop4 {
-    float: left;
-    width: 20%;
-    margin: 2%;
-}
-
 .secondaryimage {
     width:100%;
+    width: 23%;
+    margin: 2%;
+}
+
+.secondaryarticle {
+    text-align: center;
 }
 
 footer {
