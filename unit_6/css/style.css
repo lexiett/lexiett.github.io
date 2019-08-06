@@ -179,6 +179,13 @@ article {
     padding: 30px;
 }
 
+.fourcolumnfeature {
+    float: left;
+    background-color: rgba(244,139,178, 0.5);
+    width: 90%;
+    margin: 10%;
+}
+
 .fourcolumn1 {
     float: left;
     background-color: rgba(244,139,178, 0.5);
