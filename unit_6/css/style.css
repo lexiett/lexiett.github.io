@@ -148,7 +148,7 @@ section {
 #threecolumn3 {
     float: left;
     background-color: rgba(244,139,178, 0.5);
-    width: 3.33%;
+    width: 31.33%;
     margin: 1%;
 }
 
@@ -206,7 +206,7 @@ div.featuredimage {
     margin: 1%;
 }
 
-.fourcolumn3 {
+.fourcolumn4 {
     float: left;
     background-color: rgba(244,139,178, 0.5);
     width: 22%;
