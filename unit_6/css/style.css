@@ -19,6 +19,9 @@ nav {
   text-align: center;
   line-height: 2.5em;
 }
+nav a {
+  padding: 5em;
+}
 
 #coverimage {
   background: url(../images/cover2.jpg);
@@ -125,7 +128,7 @@ section {
 
 #threecolumn {
     background-color: #FFF;
-    padding: 20px;
+    padding: 10px;
 }
 
 #threecolumn1 {
