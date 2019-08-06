@@ -148,7 +148,7 @@ section {
 #threecolumn3 {
     float: left;
     background-color: rgba(244,139,178, 0.5);
-    width: 31.33%;
+    width: 3.33%;
     margin: 1%;
 }
 
@@ -181,21 +181,43 @@ div.featuredimage {
 }
 
 .fourcolumn {
-    float: left;
     background-color: #FFF;
-    border: border: 1px solid black;
+    padding: 20px;
+}
+
+.fourcolumn1 {
+    float: left;
+    background-color: rgba(244,139,178, 0.5);
+    width: 22%;
+    margin: 1%;
+}
+
+.fourcolumn2 {
+    float: left;
+    background-color: rgba(244,139,178, 0.5);
+    width: 22%;
+    margin: 1%;
+}
+
+.fourcolumn3 {
+    float: left;
+    background-color: rgba(244,139,178, 0.5);
+    width: 22%;
+    margin: 1%;
+}
+
+.fourcolumn3 {
+    float: left;
+    background-color: rgba(244,139,178, 0.5);
+    width: 22%;
+    margin: 1%;
+}
+
+.secondaryimage{
+    width:100%;
+    padding: 10px;
     display: block;
 }
-
-.secondaryimage {
-    width: 23%;
-    margin: 0 2%;
-}
-
-.secondaryarticle {
-    text-align: center;
-}
-
 
 #featuredright {
     float: right;
