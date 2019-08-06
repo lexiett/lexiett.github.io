@@ -133,22 +133,22 @@ section {
 #threecolumn1 {
     float: left;
     background-color: rgba(244,139,178, 0.5);
-    width: 31.33%;
-    margin: 2%;
+    width: 30.33%;
+    margin: 1%;
 }
 
 #threecolumn2 {
     float: left;
     background-color: rgba(244,139,178, 0.5);
-    width: 31.33%;
-    margin: 2%;
+    width: 30.33%;
+    margin: 1%;
 }
 
 #threecolumn3 {
     float: left;
     background-color: rgba(244,139,178, 0.5);
-    width: 31.33%;
-    margin: 2%;
+    width: 30.33%;
+    margin: 1%;
 }
 
 .startimage {
