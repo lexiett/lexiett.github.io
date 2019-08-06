@@ -18,7 +18,7 @@ nav {
   height: 2.5em;
   text-align: center;
   line-height: 2.5em;
-  padding: 0 2em;
+  padding: 0 5em;
 }
 
 #coverimage {
@@ -120,16 +120,16 @@ a:hover {
     height: 0;
 }
 
-#threecolumn {
+.threecolumnleft {
     float: left;
     background-color: #FFF;
     border: border: 1px solid black;
-    display: block;
 }
 
 .startimage {
     width:31.33%;
     margin: 2%;
+    display: block;
 }
 
 #featuredleft {
