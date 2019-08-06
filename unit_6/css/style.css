@@ -120,21 +120,23 @@ a:hover {
     height: 0;
 }
 
+#threecolumn {
+    background-color: #FFF;
+    float: left;
+}
+
 #threecolumn1 {
     float: left;
-    background-color: #FFF;
     border: border: 1px solid black;
 }
 
 #threecolumn2 {
     float: left;
-    background-color: #FFF;
     border: border: 1px solid black;
 }
 
 #threecolumn3 {
     float: left;
-    background-color: #FFF;
     border: border: 1px solid black;
 }
 
