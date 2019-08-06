@@ -213,15 +213,6 @@ article {
     display: block;
 }
 
-#featuredright {
-    float: right;
-    background-color: #FFF;
-    padding: 20px;
-    display: inline-block;
-    overflow: hidden;
-}
-
-
 footer {
   background-color: rgba(244,139,178, 0.5);
 }
