@@ -90,7 +90,6 @@ p {
   text-decoration: none;
   width: 25%;
   text-align:center;
-  padding: 1em
 }
 
 a {
@@ -108,13 +107,13 @@ a:hover {
 
 .headline {
   background-color: rgba(244,139,178, 0.5);
-  height: 2em;
   color: #F64E8B;
   font-size: 24px;
   font-weight: bold;
+  height: 2.5em;
+  line-height: 2.5em;
   text-decoration: none;
   text-align: center;
-  line-height: 2em;
 }
 
 .clearfix:after {
