@@ -126,7 +126,6 @@ section {
 
 #threecolumn {
     background-color: #FFF;
-    border: 1px black solid;
     padding: 20px;
 }
 
@@ -134,25 +133,25 @@ section {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 30%;
+    width: 33.33%;
 }
 
 #threecolumn2 {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 30%;
+    width: 33.33%;
 }
 
 #threecolumn3 {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 30%;
+    width: 33.33%;
 }
 
 .startimage {
-    width:31.33%;
+    width:100%;
     margin: 2%;
     display: block;
 }
