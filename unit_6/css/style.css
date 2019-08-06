@@ -18,7 +18,7 @@ nav {
   height: 2.5em;
   text-align: center;
   line-height: 2.5em;
-  padding: 1px 30px;
+  margin: 5em;
 }
 
 #coverimage {
@@ -130,21 +130,18 @@ section {
 }
 
 #threecolumn1 {
-    border: 1px black solid;
     float: left;
     width: 31.33%;
     margin: 2%;
 }
 
 #threecolumn2 {
-    border: 1px black solid;
     float: left;
     width: 31.33%;
     margin: 2%;
 }
 
 #threecolumn3 {
-    border: 1px black solid;
     float: left;
     width: 31.33%;
     margin: 2%;
@@ -152,6 +149,7 @@ section {
 
 .startimage {
     width:100%;
+    padding: 10px;
     display: block;
 }
 
