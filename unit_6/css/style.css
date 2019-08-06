@@ -133,26 +133,28 @@ section {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 33.33%;
+    width: 31.33%;
+    margin: 2%;
 }
 
 #threecolumn2 {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 33.33%;
+    width: 31.33%;
+    margin: 2%;
 }
 
 #threecolumn3 {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 33.33%;
+    width: 31.33%;
+    margin: 2%;
 }
 
 .startimage {
     width:100%;
-    margin: 2%;
     display: block;
 }
 
