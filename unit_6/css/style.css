@@ -131,7 +131,6 @@ section {
 
 #threecolumn1 {
     border: 1px black solid;
-    padding: 20px;
     float: left;
     width: 31.33%;
     margin: 2%;
@@ -139,7 +138,6 @@ section {
 
 #threecolumn2 {
     border: 1px black solid;
-    padding: 20px;
     float: left;
     width: 31.33%;
     margin: 2%;
@@ -147,7 +145,6 @@ section {
 
 #threecolumn3 {
     border: 1px black solid;
-    padding: 20px;
     float: left;
     width: 31.33%;
     margin: 2%;
