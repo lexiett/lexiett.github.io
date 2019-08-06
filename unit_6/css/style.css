@@ -163,35 +163,22 @@ article {
     display: block;
 }
 
-.featured {
-    background-color: #FFF;
-    padding: 20px;
-}
-
-.featuredleftimage {
+.featuredleft {
     float: left;
     background-color: rgba(244,139,178, 0.5);
-    width: 49%;
-    margin: 1%;
+    padding: 20px;
+    display: inline-block;
+    overflow: hidden;
 }
 
-.featuredrighttext {
-    float: right;
-    background-color: rgba(244,139,178, 0.5);
-    width: 49%;
-    margin: 1%;
+div.featuredimage {
+    text-align: left;
+    padding: 4em;
+
 }
 
 .featuredimage {
-    width:100%;
-    padding: 10px;
-    display: block;
-}
-
-.featuredtext {
-    width:100%;
-    padding: 10px;
-    display: block;
+    width:50%;
 }
 
 .fourcolumn {
