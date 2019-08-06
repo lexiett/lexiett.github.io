@@ -134,18 +134,21 @@ section {
 
 #threecolumn1 {
     float: left;
+    background-color: rgba(244,139,178, 0.5);
     width: 31.33%;
     margin: 1%;
 }
 
 #threecolumn2 {
     float: left;
+    background-color: rgba(244,139,178, 0.5);
     width: 31.33%;
     margin: 1%;
 }
 
 #threecolumn3 {
     float: left;
+    background-color: rgba(244,139,178, 0.5);
     width: 31.33%;
     margin: 1%;
 }
@@ -160,22 +163,35 @@ article {
     display: block;
 }
 
-#featuredleft {
-    float: left;
+.featured {
     background-color: #FFF;
     padding: 20px;
-    display: inline-block;
-    overflow: hidden;
 }
 
-div.featuredimage {
-    text-align: left;
-    padding: 4em;
+.featuredleftimage {
+    float: left;
+    background-color: rgba(244,139,178, 0.5);
+    width: 49%;
+    margin: 1%;
+}
 
+.featuredrighttext {
+    float: right;
+    background-color: rgba(244,139,178, 0.5);
+    width: 49%;
+    margin: 1%;
 }
 
 .featuredimage {
-    width:50%;
+    width:100%;
+    padding: 10px;
+    display: block;
+}
+
+.featuredtext {
+    width:100%;
+    padding: 10px;
+    display: block;
 }
 
 .fourcolumn {
