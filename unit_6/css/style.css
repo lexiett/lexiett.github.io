@@ -159,26 +159,19 @@ section {
     display: block;
 }
 
-article {
-    display: block;
-}
-
 .featuredleft {
     float: left;
     background-color: rgba(244,139,178, 0.5);
-    padding: 20px;
-    display: inline-block;
-    overflow: hidden;
-}
-
-div.featuredimage {
-    text-align: left;
-    padding: 4em;
-
 }
 
 .featuredimage {
     width:50%;
+    padding: 10px;
+    display: block;
+}
+
+article {
+    display: block;
 }
 
 .fourcolumn {
