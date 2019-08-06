@@ -120,6 +120,10 @@ a:hover {
     height: 0;
 }
 
+section {
+    display: block;
+}
+
 #threecolumn {
     background-color: #FFF;
     float: left;
@@ -146,12 +150,22 @@ a:hover {
     display: block;
 }
 
+article {
+    display: block;
+}
+
 #featuredleft {
     float: left;
     background-color: #FFF;
     padding: 20px;
     display: inline-block;
     overflow: hidden;
+}
+
+div.featuredimage {
+    text-align: left;
+    padding: 4em;
+    
 }
 
 .featuredimage {
