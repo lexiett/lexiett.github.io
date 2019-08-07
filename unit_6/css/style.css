@@ -127,26 +127,26 @@ section {
     display: block;
 }
 
-#threecolumn {
+.threecolumn {
     background-color: #FFF;
     padding: 30px;
 }
 
-#threecolumn1 {
+.threecolumn1 {
     float: left;
     background-color: rgba(244,139,178, 0.5);
     width: 31.33%;
     margin: 1%;
 }
 
-#threecolumn2 {
+.threecolumn2 {
     float: left;
     background-color: rgba(244,139,178, 0.5);
     width: 31.33%;
     margin: 1%;
 }
 
-#threecolumn3 {
+.threecolumn3 {
     float: left;
     background-color: rgba(244,139,178, 0.5);
     width: 31.33%;
