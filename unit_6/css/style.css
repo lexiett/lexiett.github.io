@@ -130,28 +130,28 @@ section {
 
 .threecolumn {
     background-color: #FFF;
-    padding: 20px;
+    padding: 10px;
 }
 
 .threecolumn1 {
     float: left;
     background-color: #FFF;
-    width: 31.33%;
-    margin: 1%;
+    width: 30.33%;
+    margin: 2%;
 }
 
 .threecolumn2 {
     float: left;
     background-color: #FFF;
-    width: 31.33%;
-    margin: 1%;
+    width: 30.33%;
+    margin: 2%;
 }
 
 .threecolumn3 {
     float: left;
     background-color: #FFF;
-    width: 31.33%;
-    margin: 1%;
+    width: 30.33%;
+    margin: 2%;
 }
 
 .startimage {
@@ -191,35 +191,35 @@ article {
 
 .fourcolumn {
     background-color: #FFF;
-    padding: 20px;
+    padding: 10px;
 }
 
 .fourcolumn1 {
     float: left;
     background-color: #FFF;
-    width: 23%;
-    margin: 1%;
+    width: 22%;
+    margin: 2%;
 }
 
 .fourcolumn2 {
     float: left;
     background-color: #FFF;
-    width: 23%;
-    margin: 1%;
+    width: 22%;
+    margin: 2%;
 }
 
 .fourcolumn3 {
     float: left;
     background-color: #FFF;
-    width: 23%;
-    margin: 1%;
+    width: 22%;
+    margin: 2%;
 }
 
 .fourcolumn4 {
     float: left;
     background-color: #FFF;
-    width: 23%;
-    margin: 1%;
+    width: 22%;
+    margin: 2%;
 }
 
 .secondaryimage{
