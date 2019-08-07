@@ -84,6 +84,7 @@ p {
 
 .cta {
   color: #000;
+  background-color: rgba(244,139,178, 0.5);
   font-size: 18px;
   font-weight: bold;
   line-height: 1.5em;
@@ -134,21 +135,21 @@ section {
 
 .threecolumn1 {
     float: left;
-    background-color: rgba(244,139,178, 0.5);
+    background-color: #FFF;
     width: 31.33%;
     margin: 1%;
 }
 
 .threecolumn2 {
     float: left;
-    background-color: rgba(244,139,178, 0.5);
+    background-color: #FFF;
     width: 31.33%;
     margin: 1%;
 }
 
 .threecolumn3 {
     float: left;
-    background-color: rgba(244,139,178, 0.5);
+    background-color: #FFF;
     width: 31.33%;
     margin: 1%;
 }
@@ -166,14 +167,14 @@ section {
 
 .featuredleft1 {
     float: left;
-    background-color: rgba(244,139,178, 0.5);
+    background-color: #FFF;
     width: 45%;
     margin: 2%;
 }
 
 .featuredleft2 {
     float: right;
-    background-color: rgba(244,139,178, 0.5);
+    background-color: #FFF;
     width: 45%;
     margin: 2%;
 }
@@ -195,28 +196,28 @@ article {
 
 .fourcolumn1 {
     float: left;
-    background-color: rgba(244,139,178, 0.5);
+    background-color: #FFF;
     width: 23%;
     margin: 1%;
 }
 
 .fourcolumn2 {
     float: left;
-    background-color: rgba(244,139,178, 0.5);
+    background-color: #FFF;
     width: 23%;
     margin: 1%;
 }
 
 .fourcolumn3 {
     float: left;
-    background-color: rgba(244,139,178, 0.5);
+    background-color: #FFF;
     width: 23%;
     margin: 1%;
 }
 
 .fourcolumn4 {
     float: left;
-    background-color: rgba(244,139,178, 0.5);
+    background-color: #FFF;
     width: 23%;
     margin: 1%;
 }
