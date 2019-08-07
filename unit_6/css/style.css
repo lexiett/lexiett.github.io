@@ -167,19 +167,19 @@ section {
 .featuredleft1 {
     float: left;
     background-color: rgba(244,139,178, 0.5);
-    width: 48%;
+    width: 45%;
     margin: 2%;
 }
 
 .featuredleft2 {
     float: right;
     background-color: rgba(244,139,178, 0.5);
-    width: 48%;
+    width: 45%;
     margin: 2%;
 }
 
 .featuredimage {
-    width:50%;
+    width:100%;
     padding: 10px;
     display: block;
 }
