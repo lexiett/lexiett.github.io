@@ -160,8 +160,8 @@ section {
     display: block;
 }
 
-.bottompadding {
-    padding: 5em;
+.toppadding {
+    top-padding: 20px;
 }
 
 .featuredleft {
