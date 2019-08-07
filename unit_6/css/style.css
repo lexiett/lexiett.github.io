@@ -84,7 +84,7 @@ p {
 
 .cta {
   color: #000;
-  background-color: rgba(244,139,178, 0.5);
+  background-color: #FFF;
   font-size: 18px;
   font-weight: bold;
   line-height: 1.5em;
@@ -158,10 +158,6 @@ section {
     width:100%;
     padding: 10px;
     display: block;
-}
-
-.toppadding {
-    top-padding: 20px;
 }
 
 .featuredleft {
