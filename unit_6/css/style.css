@@ -130,7 +130,7 @@ section {
 
 .threecolumn {
     background-color: #FFF;
-    padding: 30px;
+    padding: 20px;
 }
 
 .threecolumn1 {
@@ -158,6 +158,10 @@ section {
     width:100%;
     padding: 10px;
     display: block;
+}
+
+.clearpadding {
+    padding:20px;
 }
 
 .featuredleft {
@@ -191,7 +195,7 @@ article {
 
 .fourcolumn {
     background-color: #FFF;
-    padding: 30px;
+    padding: 20px;
 }
 
 .fourcolumn1 {
