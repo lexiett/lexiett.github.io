@@ -161,7 +161,7 @@ section {
 
 .featuredleft {
     float: left;
-    background-color: rgba(244,139,178, 0.5);
+    background-color: #FFF;
 }
 
 .featuredleft1 {
@@ -172,7 +172,7 @@ section {
 }
 
 .featuredleft2 {
-    float: left;
+    float: right;
     background-color: rgba(244,139,178, 0.5);
     width: 48%;
     margin: 2%;
