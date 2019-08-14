@@ -55,7 +55,7 @@ h1 {
 
 .logo {
   color: #F64E8B;
-  font-size: 34px;
+  font-size: 40px;
   font-weight: bold;
   text-decoration: none;
   padding: .5em;
@@ -113,10 +113,10 @@ a:hover {
 .headline {
   color: #F64E8B;
   background-color: rgba(244,139,178, 0.5);
-  font-size: 24px;
+  font-size: 30px;
   font-weight: bold;
   text-align: center;
-  line-height: 1em;
+  line-height: 2em;
   height: 2em;
 }
 
