@@ -32,12 +32,10 @@ nav a {
 }
 
 #toplogo {
-  height: 380px;
-  width: 380px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 30%;
 }
 
 #tagline {
@@ -85,12 +83,14 @@ p {
 
 .cta {
   color: #000;
-  background-color: #FFF;
+  background-color: rgba(244,139,178, 0.5);
   font-size: 18px;
   font-weight: bold;
   line-height: 1.5em;
   text-decoration: none;
   display: inline-block;
+  padding-top: .5em
+  padding-bottom: .5em;
 }
 
 a {
@@ -107,11 +107,13 @@ a:hover {
    }
 
 .headline {
-  background-color: rgba(244,139,178, 0.5);
   color: #F64E8B;
+  background-color: rgba(244,139,178, 0.5);
   font-size: 24px;
   font-weight: bold;
   text-align: center;
+  height: 2em;
+  line-height: 2em;
 }
 
 .clearfix:after {
@@ -129,8 +131,8 @@ section {
 
 .sectionstyle {
     background-color: #FFF;
-    padding-top: .5em;
-    padding-bottom: 1.5em;
+    padding-top: 1em;
+    padding-bottom: 3em;
 }
 
 .threecolumn {
