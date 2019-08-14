@@ -124,13 +124,13 @@ section {
     display: block;
 }
 
-.threecolumn {
+.sectionstyle {
     background-color: #FFF;
-    padding-top: 10px;
-    padding-bottom: 100px;
+    padding-top: .5em;
+    padding-bottom: 1.5em;
 }
 
-.threecolumn1 {
+.threecolumn {
     float: left;
     width: 31.33%;
     margin: 1%;
@@ -139,10 +139,6 @@ section {
 .image {
     width:100%;
     display: block;
-}
-
-.featuredleft {
-    background-color: #FFF;
 }
 
 .featuredleft1 {
@@ -167,15 +163,9 @@ article {
 }
 
 .fourcolumn {
-    background-color: #FFF;
-    padding: 10px;
-}
-
-.fourcolumn1 {
     float: left;
     width: 23%;
     margin: 1%;
-
 }
 
 footer {
