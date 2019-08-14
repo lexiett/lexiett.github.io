@@ -34,12 +34,14 @@ nav a {
 #toplogo {
   height: 380px;
   width: 380px;
+  text-align: center;
 }
 
 #tagline {
   color: #F64E8B;
   font-size: 26px;
   font-weight: bold;
+  text-align: center;
   padding: 1em;
 }
 
@@ -133,7 +135,7 @@ section {
     margin: 1%;
 }
 
-.startimage {
+.image {
     width:100%;
     display: block;
 }
@@ -173,11 +175,6 @@ article {
     float: left;
     width: 23%;
     margin: 1%;
-}
-
-.secondaryimage{
-    width:100%;
-    display: block;
 }
 
 footer {
