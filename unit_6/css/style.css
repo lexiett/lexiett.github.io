@@ -127,7 +127,7 @@ section {
 .threecolumn {
     background-color: #FFF;
     padding-top: 10px;
-    padding-bottom: 30px;
+    padding-bottom: 100px;
 }
 
 .threecolumn1 {
@@ -142,7 +142,6 @@ section {
 }
 
 .featuredleft {
-    float: left;
     background-color: #FFF;
 }
 
