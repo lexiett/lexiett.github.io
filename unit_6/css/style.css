@@ -3,11 +3,12 @@
 
 body {
 	font-family: 'Open+Sans', sans-serif; 
-	text-align: center;
+	text-align: left;
 }
 
 header {
     background-color: #FFF;
+    text-align: center;
 }
 
 nav { 
@@ -134,21 +135,6 @@ section {
 
 .threecolumn1 {
     float: left;
-    background-color: #FFF;
-    width: 31.33%;
-    margin: 1%;
-}
-
-.threecolumn2 {
-    float: left;
-    background-color: #FFF;
-    width: 31.33%;
-    margin: 1%;
-}
-
-.threecolumn3 {
-    float: left;
-    background-color: #FFF;
     width: 31.33%;
     margin: 1%;
 }
@@ -166,14 +152,12 @@ section {
 
 .featuredleft1 {
     float: left;
-    background-color: #FFF;
     width: 46%;
     margin: 2%;
 }
 
 .featuredleft2 {
     float: right;
-    background-color: #FFF;
     width: 46%;
     margin: 2%;
 }
@@ -195,28 +179,6 @@ article {
 
 .fourcolumn1 {
     float: left;
-    background-color: #FFF;
-    width: 23%;
-    margin: 1%;
-}
-
-.fourcolumn2 {
-    float: left;
-    background-color: #FFF;
-    width: 23%;
-    margin: 1%;
-}
-
-.fourcolumn3 {
-    float: left;
-    background-color: #FFF;
-    width: 23%;
-    margin: 1%;
-}
-
-.fourcolumn4 {
-    float: left;
-    background-color: #FFF;
     width: 23%;
     margin: 1%;
 }
@@ -229,6 +191,7 @@ article {
 
 footer {
   background-color: rgba(244,139,178, 0.5);
+  text-align: center;
 }
 
 .bottomlogo {
