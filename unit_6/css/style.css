@@ -73,6 +73,8 @@ h3 {
   color: #000;
 	font-size: 18px;
 	font-weight: bold;
+  padding-top: .5em
+  padding-bottom: .5em;
 }
 
 p { 
@@ -85,7 +87,6 @@ p {
 
 .cta {
   color: #000;
-  background-color: rgba(244,139,178, 0.5);
   font-size: 18px;
   font-weight: bold;
   line-height: 1.5em;
@@ -114,6 +115,7 @@ a:hover {
   font-size: 24px;
   font-weight: bold;
   text-align: center;
+  line-height: 1em;
   height: 2em;
 }
 
@@ -133,7 +135,7 @@ section {
 .sectionstyle {
     background-color: #FFF;
     padding-top: 1em;
-    padding-bottom: 3em;
+    padding-bottom: 5em;
 }
 
 .threecolumn {
