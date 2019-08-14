@@ -79,6 +79,8 @@ p {
   color: #000;
 	font-size: 16px;
   line-height: 1.5em;
+  padding-top: .5em
+  padding-bottom: .5em;
 }
 
 .cta {
@@ -89,8 +91,8 @@ p {
   line-height: 1.5em;
   text-decoration: none;
   display: inline-block;
-  padding-top: .5em
-  padding-bottom: .5em;
+  padding-top: 1em
+  padding-bottom: 1em;
 }
 
 a {
@@ -113,7 +115,6 @@ a:hover {
   font-weight: bold;
   text-align: center;
   height: 2em;
-  line-height: 2em;
 }
 
 .clearfix:after {
@@ -156,11 +157,6 @@ section {
     float: right;
     width: 46%;
     margin: 2%;
-}
-
-.featuredimage {
-    width:100%;
-    display: block;
 }
 
 article {
