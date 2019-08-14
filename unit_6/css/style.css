@@ -136,7 +136,6 @@ section {
 
 .startimage {
     width:100%;
-    padding: 10px;
     display: block;
 }
 
@@ -159,7 +158,6 @@ section {
 
 .featuredimage {
     width:100%;
-    padding: 10px;
     display: block;
 }
 
@@ -180,7 +178,6 @@ article {
 
 .secondaryimage{
     width:100%;
-    padding: 10px;
     display: block;
 }
 
