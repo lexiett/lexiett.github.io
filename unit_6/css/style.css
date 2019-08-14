@@ -31,7 +31,7 @@ nav a {
   height: 90vh;
 }
 
-.toplogo {
+#toplogo {
   height: 380px;
   width: 380px;
 }
@@ -47,7 +47,6 @@ h1 {
   color: #F64E8B;
 	font-size: 34px;
 	font-weight: bold;
-  text-decoration: none;
   padding: 1em;
 }
 
@@ -55,6 +54,7 @@ h1 {
   color: #F64E8B;
   font-size: 34px;
   font-weight: bold;
+  text-decoration: none;
   padding: .5em;
 }
 
@@ -107,7 +107,6 @@ a:hover {
   color: #F64E8B;
   font-size: 24px;
   font-weight: bold;
-  text-decoration: none;
   text-align: center;
 }
 
@@ -190,7 +189,7 @@ footer {
   text-align: center;
 }
 
-.bottomlogo {
+#bottomlogo {
   height: 150px;
   width: 150px;
 }
