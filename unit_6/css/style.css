@@ -145,13 +145,14 @@ section {
 }
 
 #featurestyle {
-    background-color: #D3D3D3;
-    padding-top: 1em;
+    background-color: #F3B624;
+    padding-top: .5em;
     padding-bottom: 5em;
 }
 
 .twocolumn {
     float: left;
+    background-color: #F3B624;
     width: 40%;
     margin: 5%;
 }
