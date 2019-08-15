@@ -71,7 +71,7 @@ h2 {
 h3 { 
 	font-size: 24px;
 	font-weight: bold;
-  padding-top: 2em
+  padding-top: 1.5em
   padding-bottom: 1em;
 }
 
@@ -145,14 +145,13 @@ section {
 }
 
 #featurestyle {
-    background-color: #F3B624;
     padding-top: .5em;
     padding-bottom: 5em;
 }
 
 .twocolumn {
     float: left;
-    background-color: #F3B624;
+    background-color: #FFDF7F;
     width: 40%;
     margin: 5%;
 }
