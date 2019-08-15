@@ -152,8 +152,14 @@ section {
 
 .twocolumn {
     float: left;
-    width: 42%;
-    margin: 4%;
+    width: 40%;
+    margin: 5%;
+}
+
+.featureimage {
+    width:100%;
+    display: block;
+    padding-bottom: 1em;
 }
 
 article {
