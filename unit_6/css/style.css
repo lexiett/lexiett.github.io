@@ -40,7 +40,7 @@ nav a {
 
 #tagline {
   color: #F64E8B;
-  font-size: 26px;
+  font-size: 30px;
   font-weight: bold;
   text-align: center;
   padding: 1em;
@@ -66,14 +66,14 @@ h2 {
 	font-size: 30px;
 	font-weight: bold;
   text-decoration: none;
-  padding: 1em 0;
+  padding: .5em 0;
 }
 
 h3 { 
 	font-size: 26px;
 	font-weight: bold;
-  padding-top: 1em
-  padding-bottom: 1em;
+  padding-top: .5em
+  padding-bottom: .5em;
 }
 
 .cta {
@@ -89,8 +89,8 @@ h3 {
 p {
     font-size: 20px;
   line-height: 1.5em;
-  padding-top: 1em
-  padding-bottom: 1em;
+  padding-top: .5em
+  padding-bottom: .5em;
 }
 
 a {
