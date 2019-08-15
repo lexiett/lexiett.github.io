@@ -3,16 +3,16 @@
 
 body {
 	font-family: 'Open+Sans', sans-serif; 
+  color: #000;
+  background-color: #FFF;
 	text-align: left;
 }
 
 header {
-    background-color: #FFF;
     text-align: center;
 }
 
 nav { 
-  color: #000;
   background-color: rgba(244,139,178, 0.5);
   font-size: 24px;
   font-weight: bold;
@@ -70,7 +70,6 @@ h2 {
 }
 
 h3 { 
-  color: #000;
 	font-size: 26px;
 	font-weight: bold;
   padding-top: .5em
@@ -78,16 +77,13 @@ h3 {
 }
 
 p { 
-  color: #000;
 	font-size: 20px;
-  line-height: 1.5em;
+  line-height: 1em;
   padding-top: .5em
   padding-bottom: .5em;
 }
 
 .cta {
-  color: #000;
-  background-color: #FFF;
   font-size: 22px;
   font-weight: bold;
   line-height: 1.5em;
@@ -134,7 +130,6 @@ section {
 }
 
 .sectionstyle {
-    background-color: #FFF;
     padding-top: 1em;
     padding-bottom: 5em;
 }
@@ -150,14 +145,14 @@ section {
     display: block;
 }
 
-.featuredleft1 {
-    float: left;
-    width: 46%;
-    margin: 2%;
+#featurestyle {
+    background-color: #211;
+    padding-top: 1em;
+    padding-bottom: 5em;
 }
 
-.featuredleft2 {
-    float: right;
+.twocolumn {
+    float: left;
     width: 46%;
     margin: 2%;
 }
