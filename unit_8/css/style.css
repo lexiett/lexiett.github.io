@@ -154,7 +154,15 @@ section {
 }
 
 
-.twocolumn {
+#twocolumn1 {
+    float: left;
+    background-color: #E5E5E5;
+    width: 42%;
+    margin: 4%;
+    padding: .8em;
+}
+
+#twocolumn2 {
     float: left;
     background-color: #E5E5E5;
     width: 42%;
@@ -172,7 +180,13 @@ article {
     display: block;
 }
 
-.fourcolumn {
+.fourcolumn1 {
+    float: left;
+    width: 23%;
+    margin: 1%;
+}
+
+.fourcolumn2 {
     float: left;
     width: 23%;
     margin: 1%;
@@ -222,7 +236,19 @@ footer {
 
   #coverimage {
     height: 30vh;
+  }
+
+  .threecolumn {
+    float: none;
 }
+
+  #twocolumn2 {
+    display: none;
+  }
+
+  .fourcolumn2 {
+    display: none;
+  }
 }
 
 @media only screen and (max-width: 389px) {
