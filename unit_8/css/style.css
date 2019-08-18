@@ -203,6 +203,7 @@ footer {
   margin-left: auto;
   margin-right: auto;
   width: 15%;
+  padding: .5em;
 }
 
 .iconimage {
@@ -244,11 +245,8 @@ footer {
     height: 50vh;
   }
 
-  #tagline {
-  color: #F64E8B;
-  font-size: 1.6em;
-  font-weight: bold;
-  text-align: center;
+   #toplogo {
+  width: 45%;
 }
 
   .threecolumn {
@@ -257,8 +255,8 @@ footer {
     margin: 2%;
 }
 
-.getstartedcta {
-  text-align: center;
+  .getstartedcta {
+    text-align: center;
 }
 
   #twocolumn1 {
@@ -283,7 +281,7 @@ footer {
   }
 
   #bottomlogo {
-  width: 30%;
+    width: 30%;
   }
 }
 
@@ -292,7 +290,16 @@ footer {
     height: 6em;
   } 
 
+  #toplogo {
+    width: 60%;
+}
+
+  #tagline {
+    font-size: 1.3em;
+}
+
+
   #bottomlogo {
-  width: 30%;
+    width: 30%;
   }
 }
