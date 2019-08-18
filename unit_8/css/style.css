@@ -187,12 +187,13 @@ footer {
   margin-left: auto;
   margin-right: auto;
   width: 10%;
+}
 
-.socialmedia {
+.iconimage {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: .5%;
+  width: 2%;
   margin: .2em 0;
 }
 
