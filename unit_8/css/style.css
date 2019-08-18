@@ -241,14 +241,20 @@ footer {
 
   .threecolumn {
     float: none;
+    width: 96%;
+    margin: 2%;
 }
 
   #twocolumn2 {
     display: none;
+    width: 96%;
+    margin: 2%;
   }
 
   .fourcolumn2 {
     display: none;
+    width: 42%;
+    margin: 4%;
   }
 }
 
