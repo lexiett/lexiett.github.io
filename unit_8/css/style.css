@@ -193,6 +193,22 @@ article {
     margin: 1%;
 }
 
+.threecolumnshop {
+    float: left;
+    width: 31.33%;
+    margin: 1%;
+}
+
+.shopcta {
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 1.5em;
+  text-decoration: none;
+  display: inline-block;
+  padding-top: 2.5em
+  padding-bottom: 2.5em;
+}
+
 footer {
   background-color: rgba(244,139,178, 0.5);
   text-align: center;
@@ -246,13 +262,13 @@ footer {
   }
 
    #toplogo {
-  width: 45%;
+  width: 50%;
 }
 
   .threecolumn {
     float: none;
-    width: 96%;
-    margin: 2%;
+    width: 88%;
+    margin: 6%;
 }
 
   .getstartedcta {
@@ -261,8 +277,8 @@ footer {
 
   #twocolumn1 {
     float: none;
-    width: 96%;
-    margin: 2%;
+    width: 88%;
+    margin: 6%;
   }
 
   #twocolumn2 {
@@ -280,6 +296,14 @@ footer {
     display: none;
   }
 
+  .threecolumnshop p {
+    display:none;
+}
+
+.shopcta {
+  text-align: center;
+}
+
   #bottomlogo {
     width: 30%;
   }
@@ -289,17 +313,4 @@ footer {
   nav {
     height: 6em;
   } 
-
-  #toplogo {
-    width: 60%;
-}
-
-  #tagline {
-    font-size: 1.3em;
-}
-
-
-  #bottomlogo {
-    width: 30%;
-  }
 }
