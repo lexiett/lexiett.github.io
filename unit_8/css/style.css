@@ -257,16 +257,26 @@ footer {
     margin: 2%;
 }
 
+  #twocolumn1 {
+    float: none;
+    width: 96%;
+    margin: 2%;
+  }
+
   #twocolumn2 {
     display: none;
     width: 96%;
     margin: 2%;
   }
 
-  .fourcolumn2 {
-    display: none;
+  .fourcolumn1 {
+    float: none;
     width: 42%;
     margin: 4%;
+  }
+
+  .fourcolumn2 {
+    display: none;
   }
 
   #bottomlogo {
@@ -280,6 +290,6 @@ footer {
   } 
 
   #bottomlogo {
-  width: 50%;
+  width: 30%;
   }
 }
