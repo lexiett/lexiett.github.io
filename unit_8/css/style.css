@@ -20,7 +20,8 @@ nav {
   height: 2.5em;
   text-align: center;
   line-height: 2.5em;
-  display: block;
+  display: inline-block;
+  width: 100%;
 }
 nav a {
   padding: 1.5em;
@@ -230,7 +231,7 @@ footer {
 @media only screen and (max-width: 535px) {
   nav {
     font-size: 1.5em;
-    height: 3.5em;
+    height: 3.2em;
     line-height: 1.5em;
   } 
 
