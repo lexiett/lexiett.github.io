@@ -133,7 +133,7 @@ section {
 
 .sectionstyle {
     padding-top: .5em;
-    padding-bottom: 5em;
+    padding-bottom: 3em;
 }
 
 .threecolumn {
@@ -148,17 +148,12 @@ section {
     padding-bottom: .5em;
 }
 
-#featurestyle {
-    padding-top: .5em;
-    padding-bottom: 5em;
-}
-
 .twocolumn {
     float: left;
     background-color: #E5E5E5;
     width: 42%;
     margin: 4%;
-    padding: 1em;
+    padding: .8em;
 }
 
 .featureimage {
