@@ -188,15 +188,12 @@ footer {
   width: 15%;
 }
 
-#iconfloat {
-  float: left;
-  margin: 50%;
-}
-
 .iconimage {
-  width: 2%;
-  margin: .2em 0;
   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: .5%;
+  margin: .2em 0;
 }
 
 #copy {
