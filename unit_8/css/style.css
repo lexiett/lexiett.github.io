@@ -189,11 +189,9 @@ footer {
 }
 
 .iconimage {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: .5%;
-  margin: .2em 0;
+  max-height: 40px;
+  max-width: 40px;
+  padding: .1em;
 }
 
 #copy {
