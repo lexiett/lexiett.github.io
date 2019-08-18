@@ -148,6 +148,11 @@ section {
     padding-bottom: .5em;
 }
 
+#featuredstyle {
+    padding-bottom: 3em;
+}
+
+
 .twocolumn {
     float: left;
     background-color: #E5E5E5;
