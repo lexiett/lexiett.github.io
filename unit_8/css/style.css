@@ -190,10 +190,11 @@ footer {
 
 #iconfloat {
   float: left;
+  margin: 50%;
 }
 
 .iconimage {
-  width: 5%;
+  width: 2%;
   margin: .2em 0;
   display: block;
 }
