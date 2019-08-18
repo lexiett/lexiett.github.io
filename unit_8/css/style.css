@@ -188,8 +188,11 @@ footer {
   width: 15%;
 }
 
-.iconimage {
+#iconfloat {
   float: left;
+}
+
+.iconimage {
   width: 5%;
   margin: .2em 0;
   display: block;
