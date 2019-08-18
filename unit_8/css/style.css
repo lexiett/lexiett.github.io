@@ -28,7 +28,7 @@ nav a {
 }
 
 #coverimage {
-  background: url(../images/cover2.jpg);
+  background: url(../images/cover3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -223,7 +223,7 @@ footer {
   } 
 
   #coverimage {
-    height: 40vh;
+    height: 70vh;
 }
 
 }
@@ -241,7 +241,7 @@ footer {
   } 
 
   #coverimage {
-    height: 30vh;
+    height: 50vh;
   }
 
   #tagline {
