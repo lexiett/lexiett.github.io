@@ -20,6 +20,7 @@ nav {
   height: 2.5em;
   text-align: center;
   line-height: 2.5em;
+  display: block;
 }
 nav a {
   padding: 1.5em;
@@ -29,6 +30,7 @@ nav a {
   background: url(../images/cover2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   height: 90vh;
 }
 
@@ -196,4 +198,35 @@ footer {
 
 #copy {
   padding: .2em;
+}
+
+@media only screen and (max-width: 940px) {
+  nav {
+    font-size: 1.5em;
+    height: 3.5em;
+    line-height: 1.5em;
+  } 
+
+  #coverimage {
+    height: 40vh;
+}
+
+}
+
+@media only screen and (max-width: 535px) {
+  nav {
+    font-size: 1.5em;
+    height: 3.5em;
+    line-height: 1.5em;
+  } 
+
+  #coverimage {
+    height: 30vh;
+}
+}
+
+@media only screen and (max-width: 389px) {
+  nav {
+    height: 6em;
+  } 
 }
