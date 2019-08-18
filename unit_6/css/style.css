@@ -3,6 +3,7 @@
 
 body {
 	font-family: 'Open+Sans', sans-serif; 
+  font-size: 20px;
   color: #000;
   background-color: #FFF;
 	text-align: left;
@@ -14,7 +15,7 @@ header {
 
 nav { 
   background-color: rgba(244,139,178, 0.5);
-  font-size: 24px;
+  font-size: 1.4em;
   font-weight: bold;
   height: 2.5em;
   text-align: center;
@@ -40,7 +41,7 @@ nav a {
 
 #tagline {
   color: #F64E8B;
-  font-size: 30px;
+  font-size: 1.6em;
   font-weight: bold;
   text-align: center;
   padding: 1em;
@@ -48,14 +49,14 @@ nav a {
 
 h1 { 
   color: #F64E8B;
-	font-size: 40px;
+	font-size: 2em;
 	font-weight: bold;
   padding: 1em;
 }
 
 .logo {
   color: #F64E8B;
-  font-size: 40px;
+  font-size: 2em;
   font-weight: bold;
   text-decoration: none;
   padding: .5em;
@@ -63,33 +64,26 @@ h1 {
 
 h2 { 
   color: #F64E8B;
-	font-size: 30px;
+	font-size: 1.6em;
 	font-weight: bold;
   text-decoration: none;
 }
 
 h3 { 
-	font-size: 24px;
+	font-size: 1.4em;
 	font-weight: bold;
-  padding-top: 1.5em
-  padding-bottom: 1em;
+  padding-top: 2em
+  padding-bottom: 1.5em;
 }
 
 .cta {
-  font-size: 22px;
+  font-size: 1.2em;
   font-weight: bold;
   line-height: 1.5em;
   text-decoration: none;
   display: inline-block;
-  padding-top: 1.5em
-  padding-bottom: 1.5em;
-}
-
-p {
-    font-size: 20px;
-  line-height: 1.5em;
-  padding-top: 1.5em
-  padding-bottom: .5em;
+  padding-top: 2em
+  padding-bottom: 2em;
 }
 
 a {
@@ -108,7 +102,7 @@ a:hover {
 .headline {
   color: #F64E8B;
   background-color: rgba(244,139,178, 0.5);
-  font-size: 30px;
+  font-size: 1.6em;
   font-weight: bold;
   text-align: center;
   line-height: 2em;
@@ -180,16 +174,19 @@ footer {
 }
 
 #bottomlogo {
-  height: 150px;
-  width: 150px;
-}
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
 
 .socialmedia {
-  height: 40px;
-  width: 40px;
-  margin: 5px 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 5%;
+  margin: .2em 0;
 }
 
 #copy {
-  padding: 5px;
+  padding: .2em;
 }
