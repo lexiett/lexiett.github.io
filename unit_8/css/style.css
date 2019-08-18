@@ -229,6 +229,11 @@ footer {
 }
 
 @media only screen and (max-width: 535px) {
+
+  body {
+    font-size: 15px;
+  }
+
   nav {
     font-size: 1.5em;
     height: 3.2em;
@@ -238,6 +243,13 @@ footer {
   #coverimage {
     height: 30vh;
   }
+
+  #tagline {
+  color: #F64E8B;
+  font-size: 1.6em;
+  font-weight: bold;
+  text-align: center;
+}
 
   .threecolumn {
     float: none;
@@ -256,10 +268,18 @@ footer {
     width: 42%;
     margin: 4%;
   }
+
+  #bottomlogo {
+  width: 30%;
+  }
 }
 
 @media only screen and (max-width: 389px) {
   nav {
     height: 6em;
   } 
+
+  #bottomlogo {
+  width: 50%;
+  }
 }
