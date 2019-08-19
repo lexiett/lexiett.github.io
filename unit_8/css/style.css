@@ -39,7 +39,7 @@ nav a {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 20%;
 }
 
 #tagline {
@@ -261,7 +261,7 @@ footer {
   } 
 
   #coverimage {
-    height: 50vh;
+    height: 60vh;
   }
 
    #toplogo {
@@ -316,4 +316,8 @@ footer {
   nav {
     height: 6em;
   } 
+
+  #tagline {
+  font-size: 1.2em;
+  }
 }
