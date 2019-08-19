@@ -84,6 +84,7 @@ h3 {
   font-size: 1.2em;
   font-weight: bold;
   line-height: 1.5em;
+  text-align: center;
   text-decoration: none;
   display: inline-block;
   padding: .2em;
@@ -275,12 +276,8 @@ footer {
     margin: 6%;
 }
 
-  .getstartedcta {
-    text-align: center;
-}
-
   .cta {
-    margin: .5em -.2em;
+    margin: .3em -.1em;
   }
 
   #twocolumn1 {
@@ -310,7 +307,7 @@ footer {
 
 .shopcta {
   text-align: center;
-  margin: .5em -.2em;
+  margin: .3em -.1em;
 }
 
   #bottomlogo {
