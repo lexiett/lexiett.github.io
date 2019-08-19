@@ -80,6 +80,7 @@ h3 {
 }
 
 .getstartedcta {
+  background-color: #E5E5E5;
   font-size: 1.2em;
   font-weight: bold;
   line-height: 1.5em;
@@ -88,6 +89,7 @@ h3 {
 }
 
 .cta {
+  background-color: #E5E5E5;
   font-size: 1.2em;
   font-weight: bold;
   line-height: 1.5em;
@@ -200,6 +202,7 @@ article {
 }
 
 .shopcta {
+  background-color: #E5E5E5;
   font-size: 1.2em;
   font-weight: bold;
   line-height: 1.5em;
