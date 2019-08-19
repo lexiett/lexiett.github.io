@@ -303,12 +303,12 @@ footer {
 
   .threecolumnshop p {
     display:none;
-}
+ }
 
-.shopcta {
+.shopcta a {
   text-align: center;
   margin: .3em 0em;
-}
+ }
 
   #bottomlogo {
     width: 30%;
@@ -322,13 +322,9 @@ footer {
 
   #toplogo {
     width: 50%;
-}
+ }
 
   #tagline {
   font-size: 1.2em;
-}
-
-  .shopcta {
-  margin: 0em;
-}
+ }
 }
