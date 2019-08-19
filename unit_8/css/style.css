@@ -265,7 +265,7 @@ footer {
   }
 
    #toplogo {
-  width: 50%;
+  width: 35%;
 }
 
   .threecolumn {
@@ -316,6 +316,10 @@ footer {
   nav {
     height: 6em;
   } 
+
+  #toplogo {
+    width: 50%;
+}
 
   #tagline {
   font-size: 1.2em;
