@@ -278,6 +278,10 @@ footer {
     text-align: center;
 }
 
+  .cta {
+    margin: .5em -.2em;
+  }
+
   #twocolumn1 {
     float: none;
     width: 88%;
