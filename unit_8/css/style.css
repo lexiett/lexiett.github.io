@@ -96,7 +96,7 @@ h3 {
   text-decoration: none;
   display: inline-block;
   padding: .2em;
-  margin: 1em -1em;
+  margin: 1em -.5em;
 }
 
 a {
@@ -209,7 +209,7 @@ article {
   text-decoration: none;
   display: inline-block;
   padding: .2em;
-  margin: 1em -1em;
+  margin: 1em -.5em;
 }
 
 footer {
