@@ -307,7 +307,7 @@ footer {
 
 .shopcta {
   text-align: center;
-  margin: .3em -.1em;
+  margin: .3em 0em;
 }
 
   #bottomlogo {
@@ -326,5 +326,9 @@ footer {
 
   #tagline {
   font-size: 1.2em;
-  }
+}
+
+  .shopcta {
+  margin: 0em;
+}
 }
