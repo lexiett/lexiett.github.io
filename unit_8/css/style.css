@@ -95,7 +95,8 @@ h3 {
   line-height: 1.5em;
   text-decoration: none;
   display: inline-block;
-  margin: 1em;
+  padding: .2em;
+  margin: 1em -1em;
 }
 
 a {
@@ -207,7 +208,8 @@ article {
   line-height: 1.5em;
   text-decoration: none;
   display: inline-block;
-  margin: 1em;
+  padding: .2em;
+  margin: 1em -1em;
 }
 
 footer {
