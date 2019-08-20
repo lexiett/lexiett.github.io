@@ -238,6 +238,7 @@ footer {
 @media only screen and (max-width: 727px) {
   nav {
     height: 6.2em;
+    line-height: 1.4em;
   }
 
   .navfloat {
