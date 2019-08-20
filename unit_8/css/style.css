@@ -20,9 +20,16 @@ nav {
   height: 2.5em;
   text-align: center;
   line-height: 2.5em;
-  display: inline-block;
   width: 100%;
 }
+
+.navfloat {
+    float: left;
+    background-color: rgba(244,139,178, 0.5);
+    width: 23%;
+    margin: 1%;
+}
+
 nav a {
   padding: 1.5em;
 }
@@ -258,8 +265,12 @@ footer {
 
   nav {
     font-size: 1.5em;
-    height: 3.2em;
+    height: 6em;
     line-height: 1.5em;
+  }
+
+  .navfloat {
+    float: none;
   } 
 
   #coverimage {
@@ -317,9 +328,6 @@ footer {
 }
 
 @media only screen and (max-width: 389px) {
-  nav {
-    height: 6em;
-  } 
 
   #toplogo {
     width: 50%;
