@@ -306,6 +306,7 @@ footer {
  }
 
 .shopcta a {
+  vertical-align: center;
   text-align: center;
   margin: .3em 0em;
  }
