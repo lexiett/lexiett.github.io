@@ -19,7 +19,7 @@ nav {
   font-weight: bold;
   height: 2.8em;
   text-align: center;
-  line-height: 2.5em;
+  line-height: 1.8em;
   width: 100%;
   display: inline-block;
 }
@@ -232,6 +232,7 @@ footer {
   nav {
     font-size: 1.5em;
     line-height: 1.5em;
+    height: 6.2em;
   } 
 
   #coverimage {
@@ -242,9 +243,7 @@ footer {
 
 @media only screen and (max-width: 727px) {
   nav {
-    font-size: 1.5em;
     height: 6.2em;
-    line-height: 1.5em;
     width: 100%;
   }
 
