@@ -99,8 +99,8 @@ h3 {
   line-height: 1.5em;
   text-decoration: none;
   display: inline-block;
-  padding: .2em;
-  margin: 1em -.1em;
+  padding: .5em 1em;
+  margin: .5em 0em;
 }
 
 a {
@@ -135,19 +135,11 @@ a:hover {
     height: 0;
 }
 
-section {
-    display: block;
-}
-
-.sectionstyle {
-    padding-top: .5em;
-    padding-bottom: 3em;
-}
 
 .threecolumn {
     float: left;
     width: 31.33%;
-    margin: 1%;
+    margin: 2em 1% 4em;
 }
 
 .image {
@@ -156,25 +148,12 @@ section {
     padding-bottom: .5em;
 }
 
-#featuredstyle {
-    padding-bottom: 3em;
-}
-
-
-#twocolumn1 {
+.twocolumn {
     float: left;
     background-color: #E5E5E5;
     width: 42%;
-    margin: 4%;
-    padding: .8em;
-}
-
-#twocolumn2 {
-    float: left;
-    background-color: #E5E5E5;
-    width: 42%;
-    margin: 4%;
-    padding: .6em;
+    margin: 2em 4% 4em;
+    padding: 2em;
 }
 
 .featureimage {
@@ -187,22 +166,16 @@ article {
     display: block;
 }
 
-.fourcolumn1 {
+.fourcolumn {
     float: left;
     width: 23%;
-    margin: 1%;
-}
-
-.fourcolumn2 {
-    float: left;
-    width: 23%;
-    margin: 1%;
+    margin: 2em 1% 4em;
 }
 
 .threecolumnshop {
     float: left;
     width: 31.33%;
-    margin: 1%;
+    margin: 2em 1% 4em;
 }
 
 footer {
@@ -229,9 +202,40 @@ footer {
 }
 
 @media only screen and (max-width: 940px) {
+    body {
+    font-size: 15px;
+  }
+
   #coverimage {
     height: 70vh;
 }
+
+.cta {
+    margin: .3em -.1em;
+  }
+
+ .threecolumn {
+    float: none;
+    width: 98%;
+    margin: 1%;
+}
+
+ .twocolumn {
+    float: none;
+    width: 98%;
+    margin: 1%;
+  }
+
+ .fourcolumn {
+    width: 48%;
+    margin: 1%;
+  }
+
+  .threecolumnshop {
+    float: none;
+    width: 98%;
+    margin: 1%;
+  }
 
 }
 
@@ -249,9 +253,6 @@ footer {
 
 @media only screen and (max-width: 535px) {
 
-  body {
-    font-size: 15px;
-  }
 
   #coverimage {
     height: 60vh;
@@ -260,39 +261,6 @@ footer {
    #toplogo {
   width: 40%;
 }
-
-  .threecolumn {
-    float: none;
-    width: 88%;
-    margin: 6%;
-}
-
-  .cta {
-    margin: .3em -.1em;
-  }
-
-  #twocolumn1 {
-    float: none;
-    width: 92%;
-    margin: 4%;
-  }
-
-  #twocolumn2 {
-    display: none;
-  }
-
-  .fourcolumn1 {
-    width: 42%;
-    margin: 4%;
-  }
-
-  .fourcolumn2 {
-    display: none;
-  }
-
-  .threecolumnshop p {
-    display:none;
- }
 
   #bottomlogo {
     width: 35%;
