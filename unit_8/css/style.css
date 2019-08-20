@@ -26,13 +26,8 @@ nav {
 
 .navfloat {
     float: left;
-    background-color: rgba(244,139,178, 0.5);
     width: 23%;
     margin: 1%;
-}
-
-nav a {
-  padding: 1.5em;
 }
 
 #coverimage {
@@ -211,17 +206,6 @@ article {
     margin: 1%;
 }
 
-.shopcta {
-  background-color: #E5E5E5;
-  font-size: 1.2em;
-  font-weight: bold;
-  line-height: 1.5em;
-  text-decoration: none;
-  display: inline-block;
-  padding: .2em;
-  margin: 1em -.1em;
-}
-
 footer {
   background-color: rgba(244,139,178, 0.5);
   text-align: center;
@@ -315,12 +299,6 @@ footer {
 
   .threecolumnshop p {
     display:none;
- }
-
-.shopcta a {
-  text-align: center;
-  padding-left: .3em
-  margin: .1em 0em;
  }
 
   #bottomlogo {
