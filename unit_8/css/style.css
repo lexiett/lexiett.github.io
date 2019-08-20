@@ -256,6 +256,8 @@ footer {
 
   .navfloat {
     float: none;
+    width: 98%;
+    margin: 1%;
   } 
 
   #coverimage {
