@@ -243,7 +243,7 @@ footer {
 @media only screen and (max-width: 727px) {
   nav {
     font-size: 1.5em;
-    height: 6.5em;
+    height: 6.3em;
     line-height: 1.5em;
     width: 100%;
   }
@@ -270,8 +270,8 @@ footer {
 
   .threecolumn {
     float: none;
-    width: 84%;
-    margin: 8%;
+    width: 88%;
+    margin: 6%;
 }
 
   .cta {
@@ -280,14 +280,12 @@ footer {
 
   #twocolumn1 {
     float: none;
-    width: 88%;
-    margin: 6%;
+    width: 96%;
+    margin: 2%;
   }
 
   #twocolumn2 {
     display: none;
-    width: 96%;
-    margin: 2%;
   }
 
   .fourcolumn1 {
