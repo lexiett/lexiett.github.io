@@ -21,6 +21,7 @@ nav {
   text-align: center;
   line-height: 2.5em;
   width: 100%;
+  display: block;
 }
 
 .navfloat {
@@ -317,8 +318,8 @@ footer {
  }
 
 .shopcta a {
-  vertical-align: center;
   text-align: center;
+  padding-left: .3em
   margin: .3em 0em;
  }
 
