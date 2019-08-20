@@ -17,7 +17,7 @@ nav {
   background-color: rgba(244,139,178, 0.5);
   font-size: 1.4em;
   font-weight: bold;
-  height: 3em;
+  height: 2.8em;
   text-align: center;
   line-height: 2.5em;
   width: 100%;
@@ -243,7 +243,7 @@ footer {
 @media only screen and (max-width: 727px) {
   nav {
     font-size: 1.5em;
-    height: 6.3em;
+    height: 6.2em;
     line-height: 1.5em;
     width: 100%;
   }
