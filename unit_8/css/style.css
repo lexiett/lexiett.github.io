@@ -229,12 +229,6 @@ footer {
 }
 
 @media only screen and (max-width: 940px) {
-  nav {
-    font-size: 1.5em;
-    line-height: 1.5em;
-    height: 6.2em;
-  } 
-
   #coverimage {
     height: 70vh;
 }
@@ -244,7 +238,6 @@ footer {
 @media only screen and (max-width: 727px) {
   nav {
     height: 6.2em;
-    width: 100%;
   }
 
   .navfloat {
