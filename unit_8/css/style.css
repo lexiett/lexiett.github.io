@@ -216,13 +216,13 @@ footer {
  .threecolumn {
     float: none;
     width: 98%;
-    margin: 1%;
+    margin: 1em 1%;
 }
 
  .twocolumn {
     float: none;
     width: 98%;
-    margin: 1%;
+    margin: 1em 1%;
   }
 
  .fourcolumn {
@@ -234,7 +234,7 @@ footer {
   .threecolumnshop {
     float: none;
     width: 98%;
-    margin: 1%;
+    margin: 1em 1%;
   }
 
 }
