@@ -91,7 +91,28 @@ h3 {
   display: inline-block;
 }
 
+#getstartedctabottom {
+  background-color: #E5E5E5;
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 1.5em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
 .cta {
+  background-color: #E5E5E5;
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 1.5em;
+  text-decoration: none;
+  display: inline-block;
+  padding: .5em 1em;
+  margin: .5em 0em;
+}
+
+.bottomcta {
   background-color: #E5E5E5;
   font-size: 1.2em;
   font-weight: bold;
@@ -206,11 +227,21 @@ footer {
 
  #coverimage {
     background: url(../images/cover3.jpg);
+    background-position: center;
     height: 70vh;
 }
 
+#getstartedctabottom {
+    margin-bottom: 2em
+  }
+
+
 .cta {
-    margin: .3em -.1em;
+    margin: .5em -.1em;
+  }
+
+.bottomcta {
+    margin-bottom: 2em
   }
 
  .threecolumn {
@@ -226,8 +257,8 @@ footer {
   }
 
  .fourcolumn {
-    width: 46%;
-    margin: 1em 2%;
+    width: 98%;
+    margin: 1em 1%;
 
   }
 
