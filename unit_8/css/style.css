@@ -34,7 +34,7 @@ nav {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 90vh;
+  height: 100vh;
 }
 
 #toplogo {
@@ -289,10 +289,17 @@ footer {
     background-position: center;
     height: 70vh;
   }
+
+    #toplogo {
+    width: 40%;
+  }
+
+    #bottomlogo {
+    width: 35%;
+  }
 }
 
 @media only screen and (max-width: 535px) {
-
 
   #coverimage {
     height: 60vh;
@@ -302,18 +309,12 @@ footer {
   width: 40%;
 }
 
+  #tagline {
+  font-size: 1.2em;
+ }
+
   #bottomlogo {
     width: 35%;
   }
 }
 
-@media only screen and (max-width: 389px) {
-
-  #toplogo {
-    width: 50%;
- }
-
-  #tagline {
-  font-size: 1.2em;
- }
-}
