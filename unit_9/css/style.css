@@ -28,6 +28,22 @@ nav a {
   display: block;
 }
 
+nav a:nth-of-type(1) {
+  background: #fff6f9;
+}
+
+nav a:nth-of-type(2) {
+  background: #fee3ed;
+}
+
+nav a:nth-of-type(3) {
+  background: #fdd1e1;
+}
+
+nav a:nth-of-type(4) {
+  background: #fcbed4;
+}
+
 #coverimage {
   background: url(../images/cover2.jpg);
   background-repeat: no-repeat;
@@ -227,6 +243,7 @@ footer {
   nav a {
     float: none;
     width: 100%;
+    padding: .5em;
   }
 
  #coverimage {
@@ -276,17 +293,13 @@ footer {
 }
 
 @media only screen and (max-width: 727px) {
-  nav {
-    height: 6.2em;
-    line-height: 1.55em;
-  }
 
    #coverimage {
     background: url(../images/cover3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 60vh;
+    height: 75vh;
   }
 
     #toplogo {
@@ -299,14 +312,6 @@ footer {
 }
 
 @media only screen and (max-width: 535px) {
-
-  nav a {
-    padding: .5em;
-  }
-
-  #coverimage {
-    height: 60vh;
-  }
 
    #toplogo {
   width: 40%;
