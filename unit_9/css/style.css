@@ -94,11 +94,11 @@ h3 {
 	font-weight: bold;
   padding-top: 2em
   padding-bottom: 1.5em;
-  margin: 1em -1em;
+  margin: 1em -.3em;
 }
 
 .getstartedcta {
-  background-color: #E5E5E5;
+  background-color: #fee3ed;
   font-size: 1.2em;
   font-weight: bold;
   line-height: 1.5em;
@@ -108,7 +108,7 @@ h3 {
 }
 
 #getstartedctabottom {
-  background-color: #E5E5E5;
+  background-color: #fee3ed;
   font-size: 1.2em;
   font-weight: bold;
   line-height: 1.5em;
@@ -118,7 +118,7 @@ h3 {
 }
 
 .cta {
-  background-color: #E5E5E5;
+  background-color: #fee3ed;
   font-size: 1.2em;
   font-weight: bold;
   line-height: 1.5em;
@@ -129,7 +129,7 @@ h3 {
 }
 
 .bottomcta {
-  background-color: #E5E5E5;
+  background-color: #fee3ed;
   font-size: 1.2em;
   font-weight: bold;
   line-height: 1.5em;
@@ -154,7 +154,7 @@ a:hover {
 
 .headline {
   color: #F64E8B;
-  background-color: rgba(244,139,178, 0.5);
+  background-color: #fcbed4;
   font-size: 1.6em;
   font-weight: bold;
   text-align: center;
