@@ -25,6 +25,7 @@ nav a {
   float: left;
   width: 25%;
   padding: 1em;
+  display: block;
 }
 
 #coverimage {
