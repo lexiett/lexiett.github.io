@@ -17,16 +17,13 @@ nav {
   background-color: rgba(244,139,178, 0.5);
   font-size: 1.4em;
   font-weight: bold;
-  height: 2.8em;
   text-align: center;
-  line-height: 2.8em;
   width: 100%;
-  display: inline-block;
 }
 
-.navfloat {
-    float: left;
-    width: 25%;
+nav a {
+  float: left;
+  width: 25%;
 }
 
 #coverimage {
@@ -223,6 +220,11 @@ footer {
 @media only screen and (max-width: 940px) {
     body {
     font-size: 15px;
+  }
+
+  nav a {
+    float: none;
+    width: 100%;
   }
 
  #coverimage {
