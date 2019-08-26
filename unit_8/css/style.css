@@ -79,7 +79,7 @@ h3 {
 	font-weight: bold;
   padding-top: 2em
   padding-bottom: 1.5em;
-  margin: 1em;
+  margin: 1em -1em;
 }
 
 .getstartedcta {
@@ -160,7 +160,7 @@ a:hover {
 .threecolumn {
     float: left;
     width: 31.33%;
-    margin: 2em 1% 4em;
+    margin: 2em 1% 3em;
 }
 
 .image {
@@ -172,8 +172,7 @@ a:hover {
 .twocolumn {
     float: left;
     width: 46%;
-    margin: 2em 2% 4em;
-    padding: 2em;
+    margin: 2em 2% 3em;
 }
 
 .featureimage {
@@ -189,13 +188,13 @@ article {
 .fourcolumn {
     float: left;
     width: 23%;
-    margin: 2em 1% 4em;
+    margin: 2em 1% 3em;
 }
 
 .threecolumnshop {
     float: left;
     width: 31.33%;
-    margin: 2em 1% 4em;
+    margin: 2em 1% 3em;
 }
 
 footer {
@@ -227,7 +226,6 @@ footer {
   }
 
  #coverimage {
-    background: url(../images/cover3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -283,6 +281,14 @@ footer {
     float: none;
     width: 100%;
   } 
+
+   #coverimage {
+    background: url(../images/cover3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+  }
 }
 
 @media only screen and (max-width: 535px) {
