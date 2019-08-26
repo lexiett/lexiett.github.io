@@ -284,6 +284,8 @@ footer {
   .navfloat {
     float: none;
     width: 100%;
+    padding: 1em;
+    display: block;
   } 
 
    #coverimage {
@@ -291,7 +293,7 @@ footer {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 70vh;
+    height: 60vh;
   }
 
     #toplogo {
