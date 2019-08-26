@@ -28,6 +28,22 @@ nav a {
   display: block;
 }
 
+nav a:nth-of-type(1) {
+  background: blue;
+}
+
+nav a:nth-of-type(2) {
+  background: green;
+}
+
+nav a:nth-of-type(3) {
+  background: yellow;
+}
+
+nav a:nth-of-type(4) {
+  background: blue;
+}
+
 #coverimage {
   background: url(../images/cover2.jpg);
   background-repeat: no-repeat;
@@ -227,6 +243,7 @@ footer {
   nav a {
     float: none;
     width: 100%;
+    padding: .5em;
   }
 
  #coverimage {
@@ -282,7 +299,7 @@ footer {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 60vh;
+    height: 75vh;
   }
 
     #toplogo {
@@ -295,14 +312,6 @@ footer {
 }
 
 @media only screen and (max-width: 535px) {
-
-  nav a {
-    padding: .5em;
-  }
-
-  #coverimage {
-    height: 60vh;
-  }
 
    #toplogo {
   width: 40%;
