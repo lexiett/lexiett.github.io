@@ -19,11 +19,13 @@ nav {
   font-weight: bold;
   text-align: center;
   width: 100%;
+  display: inline-block;
 }
 
 nav a {
   float: left;
   width: 25%;
+  padding: 1em;
 }
 
 #coverimage {
