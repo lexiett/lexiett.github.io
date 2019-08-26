@@ -29,19 +29,19 @@ nav a {
 }
 
 nav a:nth-of-type(1) {
-  background: blue;
+  background: #fff6f9;
 }
 
 nav a:nth-of-type(2) {
-  background: green;
+  background: #fee3ed;
 }
 
 nav a:nth-of-type(3) {
-  background: yellow;
+  background: #fdd1e1;
 }
 
 nav a:nth-of-type(4) {
-  background: blue;
+  background: #fcbed4;
 }
 
 #coverimage {
