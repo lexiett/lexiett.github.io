@@ -7,7 +7,6 @@ body {
   color: #000;
   background-color: #FFF;
 	text-align: left;
-  margin: 1em;
 }
 
 header {
@@ -54,9 +53,10 @@ nav a:nth-of-type(4) {
 }
 
 #toplogo {
-  display: block;
-  width: 100%;
-  margin: 0 15em;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
 }
 
 #tagline {
@@ -160,6 +160,7 @@ a:hover {
 .image {
     width:100%;
     display: block;
+    margin-bottom: 1em;
 }
 
 .twocolumn {
@@ -197,9 +198,10 @@ footer {
 
 #bottomlogo {
   display: block;
-  width: 100%;
-  margin: .5em 20em;
-  border-radius: 50%
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  padding: .5em;
 }
 
 .iconimage {
@@ -280,22 +282,14 @@ footer {
   }
 
     #toplogo {
-    margin: 10em;
+    width: 40%;
   }
 
-    #bottomlogo {
-    margin: 15em;
-  }
-}
-
-@media only screen and (max-width: 535px) {
-
-   #toplogo {
-  margin: 7em;
-}
-
-  #tagline {
+   #tagline {
   font-size: 1.2em;
  }
-}
 
+    #bottomlogo {
+    width: 35%;
+  }
+}
