@@ -105,6 +105,7 @@ h3 {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  padding-bottom: .5em;
 }
 
 .cta {
@@ -149,7 +150,6 @@ a:hover {
     clear: both;
     height: 0;
 }
-
 
 .threecolumn {
     float: left;
@@ -200,8 +200,9 @@ footer {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: .5em;
+  margin-bottom:.5em;
   width: 15%;
-  padding: .5em;
   border-radius: 50%;
   background: #FFF;
 }
