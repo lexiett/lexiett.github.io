@@ -194,7 +194,7 @@ article {
 footer {
   background-color: #fcbed4;
   text-align: center;
-  padding: 1em;
+  padding: .5em;
 }
 
 #bottomlogo {
@@ -294,6 +294,6 @@ footer {
  }
 
     #bottomlogo {
-    width: 35%;
+    width: 30%;
   }
 }
