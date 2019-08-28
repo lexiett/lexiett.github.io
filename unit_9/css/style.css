@@ -7,6 +7,7 @@ body {
   color: #000;
   background-color: #FFF;
 	text-align: left;
+  margin: 1em;
 }
 
 header {
@@ -54,9 +55,8 @@ nav a:nth-of-type(4) {
 
 #toplogo {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
+  width: 100%;
+  margin: 0 15em;
 }
 
 #tagline {
@@ -107,28 +107,7 @@ h3 {
   display: inline-block;
 }
 
-#getstartedctabottom {
-  background-color: #fee3ed;
-  font-size: 1.2em;
-  font-weight: bold;
-  line-height: 1.5em;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-
 .cta {
-  background-color: #fee3ed;
-  font-size: 1.2em;
-  font-weight: bold;
-  line-height: 1.5em;
-  text-decoration: none;
-  display: inline-block;
-  padding: .5em 1em;
-  margin: 1em 0em;
-}
-
-.bottomcta {
   background-color: #fee3ed;
   font-size: 1.2em;
   font-weight: bold;
@@ -181,7 +160,6 @@ a:hover {
 .image {
     width:100%;
     display: block;
-    padding-bottom: 1em;
 }
 
 .twocolumn {
@@ -219,10 +197,9 @@ footer {
 
 #bottomlogo {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 15%;
-  padding: .5em;
+  width: 100%;
+  margin: .5em 20em;
+
 }
 
 .iconimage {
@@ -303,26 +280,22 @@ footer {
   }
 
     #toplogo {
-    width: 40%;
+    margin: 10em;
   }
 
     #bottomlogo {
-    width: 35%;
+    margin: 15em;
   }
 }
 
 @media only screen and (max-width: 535px) {
 
    #toplogo {
-  width: 40%;
+  margin: 7em;
 }
 
   #tagline {
   font-size: 1.2em;
  }
-
-  #bottomlogo {
-    width: 35%;
-  }
 }
 
