@@ -1,0 +1,299 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Raleway&display=swap');
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+	font-family: 'Open+Sans', sans-serif; 
+  font-size: 20px;
+  color: #000;
+  background-color: #FFF;
+	text-align: left;
+}
+
+header {
+    text-align: center;
+}
+
+nav { 
+  background-color: rgba(244,139,178, 0.5);
+  font-size: 1.4em;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+}
+
+nav a {
+  float: left;
+  width: 25%;
+  padding: 1em;
+  display: block;
+}
+
+nav a:nth-of-type(1) {
+  background: #fff6f9;
+}
+
+nav a:nth-of-type(2) {
+  background: #fee3ed;
+}
+
+nav a:nth-of-type(3) {
+  background: #fdd1e1;
+}
+
+nav a:nth-of-type(4) {
+  background: #fcbed4;
+}
+
+#coverimage {
+  background: url(../images/cover2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+#toplogo {
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+#tagline {
+  color: #F64E8B;
+  font-size: 1.6em;
+  font-weight: bold;
+  text-align: center;
+  padding: 1em;
+}
+
+h1 { 
+  color: #F64E8B;
+	font-size: 2em;
+	font-weight: bold;
+  padding: 1em;
+}
+
+.logo {
+  color: #F64E8B;
+  font-size: 2em;
+  font-weight: bold;
+  text-decoration: none;
+  padding: .5em;
+}
+
+h2 { 
+  color: #F64E8B;
+	font-size: 1.6em;
+	font-weight: bold;
+  text-decoration: none;
+}
+
+h3 { 
+	font-size: 1.2em;
+	font-weight: bold;
+  padding-top: 2em
+  padding-bottom: 1.5em;
+  margin: 1em 0em;
+}
+
+.getstartedcta {
+  background-color: #fee3ed;
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 1.5em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  padding-bottom: .5em;
+}
+
+.cta {
+  background-color: #fee3ed;
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 1.5em;
+  text-decoration: none;
+  display: inline-block;
+  padding: .5em 1em;
+  margin: 1em 0em;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #F64E8B;
+    text-decoration:underline;
+    text-decoration-style: solid;
+    text-decoration-color: #F64E8B;
+    cursor:pointer;
+   }
+
+.headline {
+  color: #F64E8B;
+  background-color: #fcbed4;
+  font-size: 1.6em;
+  font-weight: bold;
+  text-align: center;
+  line-height: 2em;
+  height: 2em;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.threecolumn {
+    float: left;
+    width: 31.33%;
+    margin: 2em 1% 3em;
+}
+
+.image {
+    width:100%;
+    display: block;
+    margin-bottom: 1em;
+}
+
+.twocolumn {
+    float: left;
+    width: 46%;
+    margin: 2em 2% 3em;
+}
+
+.featureimage {
+    width:100%;
+    display: block;
+    padding-bottom: .5em;
+}
+
+article {
+    display: block;
+}
+
+.fourcolumn {
+    float: left;
+    width: 23%;
+    margin: 2em 1% 3em;
+}
+
+.threecolumnshop {
+    float: left;
+    width: 31.33%;
+    margin: 2em 1% 3em;
+}
+
+footer {
+  background-color: #fcbed4;
+  text-align: center;
+  padding: .5em;
+}
+
+#bottomlogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: .5em;
+  margin-bottom:.5em;
+  width: 15%;
+  border-radius: 50%;
+  background: #FFF;
+}
+
+.iconimage {
+  max-height: 40px;
+  max-width: 40px;
+  padding: .1em;
+}
+
+#copy {
+  padding: .2em;
+}
+
+@media only screen and (max-width: 940px) {
+    body {
+    font-size: 15px;
+  }
+
+  nav a {
+    float: none;
+    width: 100%;
+    padding: .5em;
+  }
+
+ #coverimage {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+}
+
+#getstartedctabottom {
+    margin-bottom: 3em
+  }
+
+
+.cta {
+    margin: .5em -.1em;
+  }
+
+.bottomcta {
+    margin-bottom: 3em
+  }
+
+ .threecolumn {
+    float: none;
+    width: 98%;
+    margin: 1em 1%;
+}
+
+ .twocolumn {
+    float: none;
+    width: 98%;
+    margin: 1em 1%;
+  }
+
+ .fourcolumn {
+    width: 98%;
+    margin: 1em 1%;
+
+  }
+
+  .threecolumnshop {
+    float: none;
+    width: 98%;
+    margin: 1em 1%;
+  }
+
+}
+
+@media only screen and (max-width: 727px) {
+
+   #coverimage {
+    background: url(../images/cover3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 75vh;
+  }
+
+    #toplogo {
+    width: 40%;
+  }
+
+   #tagline {
+  font-size: 1.2em;
+ }
+
+    #bottomlogo {
+    width: 30%;
+  }
+}
